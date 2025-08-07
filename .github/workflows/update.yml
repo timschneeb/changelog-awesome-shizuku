@@ -31,7 +31,7 @@ jobs:
           cache: "npm"
       - uses: denoland/setup-deno@v1
         with:
-          deno-version: v1.29.4
+          deno-version: v2.2.14
       - uses: actions/cache@v3
         with:
           path: |
