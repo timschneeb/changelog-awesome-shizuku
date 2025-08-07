@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 [ [Daily](../day/README.md) / Weekly ]
 
+## Aug 11 - Aug 17, 2025
+
+### Apps / Automation
+
+*   [Geto](https://github.com/JackEblan/Geto) - Automatically change device settings when a specific app is launched. `GPL-3.0`
+
 ## Aug 04 - Aug 10, 2025
 
 ### Apps / Network
@@ -275,12 +281,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Apps / File management
 
 *   [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) `IAP` 💰 - Can backup external app files under Android/data and obb using Shizuku. Root required for full functionality `Proprietary`
-
-## Dec 02 - Dec 08, 2024
-
-### Apps / Development utilities
-
-*   [Geto](https://github.com/JackEblan/Geto) - Apply device settings to your apps. `GPL-3.0`
 
 ## Nov 11 - Nov 17, 2024
 
