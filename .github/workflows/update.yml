@@ -14,16 +14,16 @@ jobs:
     runs-on: ubuntu-latest
     concurrency: build
     steps:
-      - name: Check out repository code
-        uses: actions/checkout@v4
-        with:
-          path: "repo/"
-      
       - name: Check out generator code
         uses: actions/checkout@v4
         with:
           repository: "timschneeb/trackawesomelist-source"
           ref: "shizuku-tracking"
+      
+      - name: Check out repository code
+        uses: actions/checkout@v4
+        with:
+          path: "repo/"
 
       - uses: actions/setup-node@v3
         with:
