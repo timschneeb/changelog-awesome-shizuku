@@ -1,0 +1,62 @@
+name: Update changelogs
+on:
+  repository_dispatch:
+    types: [schedule]
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    concurrency: build
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      
+      - name: Check out generator code
+        uses: actions/checkout@v3
+        with:
+          branch: "shizuku-tracking"
+          path: "generator/"
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 22
+          cache: "npm"
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.29.4
+      - uses: actions/cache@v3
+        with:
+          path: |
+            ~/.deno
+            ~/.cache/deno
+          key: ${{ runner.os }}-deno-${{ hashFiles('**/*deps.ts') }}
+      - run: "cd generator && make build && cp -r dist/content/timschneeb/awesome-shizuku/ ../"
+        id: source
+        continue-on-error: true
+        env:
+          PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+      - name: upload temp folder to github action for debug
+        uses: actions/upload-artifact@v4
+        with:
+          name: temp
+          path: temp
+          if-no-files-found: ignore
+      - name: throw if build failed
+        if: steps.source.outcome == 'failure'
+        run: |
+          echo "::error::build failed"
+          exit 1
+        
+      - name: Publish changelog
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update changelog
+          file_pattern: ./{day,week}/README.md
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+        
