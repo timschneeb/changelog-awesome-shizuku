@@ -1,10 +1,6 @@
 # Recent awesome-shizuku updates (Weekly)
 
-Curated list of awesome Android apps making use of Shizuku
-
 Recent additions and updates to the [awesome-shizuku list](https://github.com/timschneeb/awesome-shizuku). This overview is updated automatically and contains the latest changes, grouped by date.
-
-[😺 timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) · ⭐ 6.2K
 
 [ [Daily](../day/README.md) / Weekly ]
 
