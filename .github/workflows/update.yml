@@ -1,7 +1,7 @@
 name: Update changelogs
 on:
   repository_dispatch:
-    types: [schedule]
+    types: [trigger-workflow]
   workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
@@ -16,12 +16,13 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
+        with:
+          path: "repo/"
       
       - name: Check out generator code
         uses: actions/checkout@v3
         with:
           branch: "shizuku-tracking"
-          path: "generator/"
 
       - uses: actions/setup-node@v3
         with:
@@ -36,12 +37,12 @@ jobs:
             ~/.deno
             ~/.cache/deno
           key: ${{ runner.os }}-deno-${{ hashFiles('**/*deps.ts') }}
-      - run: "cd generator && make build && cp -r dist/content/timschneeb/awesome-shizuku/ ../"
+      - run: "make build && cp -r dist/content/timschneeb/awesome-shizuku/ repo"
         id: source
         continue-on-error: true
         env:
           PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-      - name: upload temp folder to github action for debug
+      - name: upload temp folder to GitHub action for debug
         uses: actions/upload-artifact@v4
         with:
           name: temp
@@ -58,5 +59,6 @@ jobs:
         with:
           commit_message: Update changelog
           file_pattern: ./{day,week}/README.md
+          repository: ./repo
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
         
