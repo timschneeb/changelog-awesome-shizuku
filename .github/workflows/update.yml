@@ -40,7 +40,7 @@ jobs:
           key: ${{ runner.os }}-deno-${{ hashFiles('**/*deps.ts') }}
       - run: |
           make build
-          cp -r dist/content/timschneeb/awesome-shizuku/ repo/
+          cp -r dist/content/timschneeb/awesome-shizuku/* repo/
         id: source
         continue-on-error: true
         env:
