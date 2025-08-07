@@ -1,6 +1,6 @@
 # Recent awesome-shizuku updates (Daily)
 
-Recent additions and updates to the [awesome-shizuku list](https://github.com/timschneeb/awesome-shizuku). This overview is updated automatically and contains the latest changes, grouped by date.
+Recent additions and updates to the [awesome-shizuku list](https://github.com/timschneeb/awesome-shizuku). This overview is updated automatically and contains the latest changes, grouped by date. Note that changes to existing entries are also included.
 
 [ Daily / [Weekly](../week/README.md) ]
 
