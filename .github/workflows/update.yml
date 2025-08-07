@@ -22,7 +22,8 @@ jobs:
       - name: Check out generator code
         uses: actions/checkout@v3
         with:
-          branch: "shizuku-tracking"
+          repository: "timschneeb/trackawesomelist-source"
+          ref: "shizuku-tracking"
 
       - uses: actions/setup-node@v3
         with:
