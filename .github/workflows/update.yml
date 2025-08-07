@@ -61,7 +61,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update changelog
-          file_pattern: ./{day,week}/README.md
+          file_pattern: ./*/README.md
           repository: ./repo
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
         
