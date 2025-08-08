@@ -5,4 +5,4 @@
 
 _________________
 
-The changelog generator is based on [my fork of trackawesomelist](https://github.com/timschneeb/trackawesomelist-source/tree/shizuku-tracking).
+The changelog generator is a fork of [trackawesomelist](https://github.com/timschneeb/trackawesomelist-source/tree/shizuku-tracking).
