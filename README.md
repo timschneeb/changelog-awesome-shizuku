@@ -434,9 +434,9 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) `Ads` `IAP` 💰 - IDE for Python 3 `Proprietary`
 
-## Older than 1 year
+## Older than one year
 
-This changelog only contains entries modified within the last year. If you want to see older entries.
+This changelog only contains entries modified within the last year. 
 
 View the full list at [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku).
 
