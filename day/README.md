@@ -1,1 +1,0 @@
-This document was moved to [../README.md](../README.md).
