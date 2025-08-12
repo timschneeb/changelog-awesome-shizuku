@@ -56,7 +56,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### File management
 
-*   `IAP` 💰 - [SDMaid-SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) - SD Maid 2/SE is Android's most thorough cleaning tool `GPL-3.0` [(Source code)](https://github.com/d4rken-org/sdmaid-se)
+*   [SDMaid-SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) `IAP` 💰 - SD Maid 2/SE is Android's most thorough cleaning tool `GPL-3.0` [(Source code)](https://github.com/d4rken-org/sdmaid-se)
 
 ### Vendor-specific / Samsung OneUI
 
