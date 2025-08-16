@@ -10,10 +10,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Geto](https://github.com/JackEblan/Geto) - Automatically change device settings when a specific app is launched. `GPL-3.0`
 
-### Customization
-
-*   [Quick-Tile Settings](https://f-droid.org/packages/com.rbn.qtsettings/) - QS tiles for toggling USB debugging and switching private DNS hosts `GPL-3.0` [(Source code)](https://github.com/RBN-Apps/Quick-Tile-Settings)
-
 ### Installer & app stores
 
 *   [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) - A lightweight app installer replacement with split APK support `Proprietary`
@@ -29,6 +25,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Privacy
 
 *   [AppLock](https://github.com/PranavPurwar/AppLock) - Lock sensitive apps with a PIN and optionally biometrics `MIT`
+
+### Quick settings tiles
+
+*   [Quick-Tile Settings](https://f-droid.org/packages/com.rbn.qtsettings/) - QS tiles for toggling USB debugging and switching private DNS hosts `GPL-3.0` [(Source code)](https://github.com/RBN-Apps/Quick-Tile-Settings)
 
 ### Vendor-specific / Google Pixel
 
