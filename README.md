@@ -6,6 +6,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## Aug 16, 2025
 
+### Games
+
+*   [stalker](https://github.com/onerdna/stalker) - Save data viewer & editor for Shadow Fight 2 `GPL-3.0`
+
 ### Quick settings tiles
 
 *   [Private DNS Quick Setting](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) - QS tile for toggling the private DNS setting `GPL-3.0` [(Source code)](https://github.com/flashsphere/private-dns-qs)
