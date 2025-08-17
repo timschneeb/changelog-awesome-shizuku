@@ -20,13 +20,13 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Geto](https://github.com/JackEblan/Geto) - Automatically change device settings when a specific app is launched. `GPL-3.0`
 
+### Customization
+
+*   [setbox](https://github.com/YasserNull/setbox) - Modifies Android system settings through community-developed modules `GPL-3.0`
+
 ### Installer & app stores
 
 *   [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) - A lightweight app installer replacement with split APK support `Proprietary`
-
-### Miscellaneous
-
-*   [setbox](https://github.com/YasserNull/setbox) - Modifies Android system settings through community-developed modules `GPL-3.0`
 
 ### Power management
 
@@ -144,6 +144,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Development utilities
 
 *   [AndroidAccounts](https://github.com/iamr0s/AndroidAccounts) - Dump package names of apps that have registered an account for a user. `Proprietary`
+*   [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) - Fixes MediaStore & File IO compatibility issues between HostProfile App and WorkProfile/DualApp/MultiApp. `Proprietary`
 *   [get\_event](https://github.com/lalakii/get_event) - Read /dev/input/event\*  `Proprietary`
 *   [KeyAttestation](https://github.com/vvb2060/KeyAttestation) - Supports generating, saving, loading, parsing and verifying Android key and ID attestation data. `Proprietary`
 *   [LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps on your device. Uses Shizuku to determine the installation source of other apps. `Apache-2.0`
@@ -155,10 +156,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Installer & app stores
 
 *   [BHub](https://github.com/B1ays/BHub) - Download, install and share mods easily `Proprietary`
-
-### Miscellaneous
-
-*   [dualapp-mediastore-compatibility](https://github.com/kaedea/dualapp-mediastore-compatibility) - Fixes MediaStore & File IO compatibility issues between HostProfile App and WorkProfile/DualApp/MultiApp. `Proprietary`
 
 ### Network
 
