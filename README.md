@@ -115,7 +115,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Software management
 
-*   [shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps.  `Proprietary`
+*   [shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps.  `GPL-3.0`
 
 ### Terminals
 
