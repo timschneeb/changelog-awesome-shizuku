@@ -12,7 +12,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Quick settings tiles
 
-*   [Private DNS Quick Setting](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) - QS tile for toggling the private DNS setting `GPL-3.0` [(Source code)](https://github.com/flashsphere/private-dns-qs)
+*   [Private DNS Quick Setting](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) - QS tile for toggling the private DNS setting on or off  `GPL-3.0` [(Source code)](https://github.com/flashsphere/private-dns-qs)
 
 ## Aug 07, 2025
 
@@ -34,7 +34,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Privacy
 
-*   [AppLock](https://github.com/PranavPurwar/AppLock) - Lock sensitive apps with a PIN and optionally biometrics `MIT`
+*   [AppLock](https://github.com/PranavPurwar/AppLock) ✨ - Lock sensitive apps with a PIN and optionally biometrics `MIT`
 
 ### Quick settings tiles
 
@@ -54,7 +54,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Installer & app stores
 
-*   [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived/blob/main/README_EN.md) - Modern and functional Android app installer replacement `GPL-3.0`
+*   [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived/blob/main/README_EN.md) ✨ - Modern and functional Android app installer replacement `GPL-3.0`
 
 ## Jul 11, 2025
 
@@ -80,7 +80,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Software management
 
-*   [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) - Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta)
+*   [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) ✨ - Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta)
 
 ## Jun 18, 2025
 
@@ -115,11 +115,11 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Software management
 
-*   [shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps.  `GPL-3.0`
+*   [shappky](https://github.com/YasserNull/shappky) ✨ - A simple app to boost performance by stopping background apps.  `GPL-3.0`
 
 ### Terminals
 
-*   [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) - Sleek, Material 3-inspired terminal emulator based on Termux's robust TerminalView `MIT`
+*   [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) ✨ - Sleek, Material 3-inspired terminal emulator based on Termux's robust TerminalView `MIT`
 
 ## Apr 12, 2025
 
@@ -138,7 +138,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Customization
 
 *   [AutoRotate](https://github.com/eiyooooo/AutoRotate) - Manage automatic rotation of different screens on Android phones `GPL-3.0`
-*   [Extendroid](https://github.com/legendsayantan/Extendroid) - Adds desktop-like multi-window support on Android for smartphones. `GPL-3.0`
+*   [Extendroid](https://github.com/legendsayantan/Extendroid) ✨ - Adds desktop-like multi-window support on Android for smartphones. `GPL-3.0`
 *   [WidgetsPro](https://github.com/preethamkmr3/WidgetsPro) - CPU and battery widgets `Proprietary`
 
 ### Development utilities
@@ -245,7 +245,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Input methods
 
-*   [KeyMapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper) - An Android app that changes what the buttons do on your devices! `GPL-3.0` [(Source code)](https://github.com/keymapperorg/KeyMapper)
+*   [KeyMapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper) ✨ - An Android app that changes what the buttons do on your devices! `GPL-3.0` [(Source code)](https://github.com/keymapperorg/KeyMapper)
 
 ## Jan 28, 2025
 
@@ -271,7 +271,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Productivity
 
-*   [digipaws](https://f-droid.org/packages/nethical.digipaws/) - Tool to reduce screen addiction by regulating app usage through a gamified experience `GPL-3.0` [(Source code)](https://github.com/nethical6/digipaws)
+*   [digipaws](https://f-droid.org/packages/nethical.digipaws/) ✨ - Tool to reduce screen addiction by regulating app usage through a gamified experience `GPL-3.0` [(Source code)](https://github.com/nethical6/digipaws)
 
 ### Software management
 
@@ -336,7 +336,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Customization
 
 *   [GrooveLauncher](https://github.com/groovelauncher/GrooveLauncher) - Windows 8 Metro-styled launcher that can uninstall apps using Shizuku
-*   [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains some easy-to-use tools to go beyond the level of control allowed by Android System `GPL-3.0`
+*   [ShizuTools](https://github.com/legendsayantan/ShizuTools) ✨ - Contains some easy-to-use tools to go beyond the level of control allowed by Android System `GPL-3.0`
 
 ### Vendor-specific / MIUI
 
