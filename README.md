@@ -305,10 +305,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Dawn-Desktop-Addons](https://github.com/Dawncraft/Dawn-Desktop-Addons) - Some Android app widgets and live wallpapers `GPL-3.0`
 
-### Development utilities
-
-*   [AIDE-Plus](https://github.com/AndroidIDE-CN/AIDE-Plus) - Android IDE for phones `AGPL-3.0`
-
 ### Development libraries / System
 
 *   [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager bindings `MIT`
