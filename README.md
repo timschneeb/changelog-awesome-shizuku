@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Aug 28, 2025
+
+### Network
+
+*   [NetWall](https://play.google.com/store/apps/details?id=com.ysy.app.firewall) `IAP` 💰 - App firewall that doesn't depend on a local VPN or root `Proprietary`
+
 ## Aug 16, 2025
 
 ### Games
