@@ -16,6 +16,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [NetWall](https://play.google.com/store/apps/details?id=com.ysy.app.firewall) `IAP` 💰 - App firewall that doesn't depend on a local VPN or root `Proprietary`
 
+## Aug 21, 2025
+
+### Vendor-specific / Samsung OneUI
+
+*   [Galaxy MaxHz](https://github.com/tribalfs/GalaxyMaxHzPub) `IAP` 💰 - Refresh Rate Mods, Screen-off Mods, QS Tiles, Tasker Support and More  `Proprietary`
+
 ## Aug 16, 2025
 
 ### Games
