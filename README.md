@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Sep 11, 2025
+
+### Installer & app stores
+
+*   [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ✨ - Modern and functional Android app installer replacement `GPL-3.0`
+
 ## Sep 08, 2025
 
 ### Vendor-specific / Samsung OneUI
@@ -67,12 +73,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Network
 
 *   [WG Tunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. `MIT`
-
-## Jul 17, 2025
-
-### Installer & app stores
-
-*   [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived/blob/main/README_EN.md) ✨ - Modern and functional Android app installer replacement `GPL-3.0`
 
 ## Jul 11, 2025
 
