@@ -4,6 +4,13 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Sep 21, 2025
+
+### Quick settings
+
+*   [Ultimate Settings](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.free.release) `Ads` - Direct toggling of wifi, bluetooth, mobile internet, flight mode, gps, nfc, wifi/bluetooth/usb tethering hotspot, screen brightness, LED, ringer mode, from Widget/App/Notification/Lock screen notification `Proprietary`
+*   [Ultimate Settings PRO](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.pro.release) `Paid` 💰 - Direct toggling of wifi, bluetooth, mobile internet, flight mode, gps, nfc, wifi/bluetooth/usb tethering hotspot, screen brightness, LED, ringer mode, from Widget/App/Notification/Lock screen notification `Proprietary`
+
 ## Sep 11, 2025
 
 ### Installer & app stores
@@ -38,7 +45,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [stalker](https://github.com/onerdna/stalker) - Save data viewer & editor for Shadow Fight 2 `GPL-3.0`
 
-### Quick settings tiles
+### Quick settings
 
 *   [Private DNS Quick Setting](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) - QS tile for toggling the private DNS setting on or off  `GPL-3.0` [(Source code)](https://github.com/flashsphere/private-dns-qs)
 
@@ -64,7 +71,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [AppLock](https://github.com/PranavPurwar/AppLock) ✨ - Lock sensitive apps with a PIN and optionally biometrics `MIT`
 
-### Quick settings tiles
+### Quick settings
 
 *   [Quick-Tile Settings](https://f-droid.org/packages/com.rbn.qtsettings/) - QS tiles for toggling USB debugging and switching private DNS hosts `GPL-3.0` [(Source code)](https://github.com/RBN-Apps/Quick-Tile-Settings)
 
