@@ -4,12 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
-## Sep 21, 2025
+## Sep 22, 2025
 
 ### Quick settings
 
-*   [Ultimate Settings](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.free.release) `Ads` - Direct toggling of wifi, bluetooth, mobile internet, flight mode, gps, nfc, wifi/bluetooth/usb tethering hotspot, screen brightness, LED, ringer mode, from Widget/App/Notification/Lock screen notification `Proprietary`
-*   [Ultimate Settings PRO](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.pro.release) `Paid` 💰 - Direct toggling of wifi, bluetooth, mobile internet, flight mode, gps, nfc, wifi/bluetooth/usb tethering hotspot, screen brightness, LED, ringer mode, from Widget/App/Notification/Lock screen notification `Proprietary`
+*   [Ultimate Settings](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.free.release) `Ads` - Direct toggling of wifi, bluetooth, mobile internet, flight mode, gps, nfc, wifi/bluetooth/usb tethering hotspot, screen brightness, screen autorotate, LED light, ringer mode, from Widget/App/Notification/Lock screen notification `Proprietary`
+*   [Ultimate Settings PRO](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.pro.release) `Paid` 💰 - Direct toggling of wifi, bluetooth, mobile internet, flight mode, gps, nfc, wifi/bluetooth/usb tethering hotspot, screen brightness, screen autorotate, LED light, ringer mode, from Widget/App/Notification/Lock screen notification `Proprietary`
 
 ## Sep 11, 2025
 
