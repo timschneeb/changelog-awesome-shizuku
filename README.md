@@ -398,12 +398,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) `7-day trial` `Paid` 💰 - An app manager that makes it easy to manage APKs and apps installed on your device `Proprietary`
 *   [Inure App Manager](https://play.google.com/store/apps/details?id=app.simple.inure.play) `15-day trial` `IAP` 💰 - Android app manager for both rooted and non-rooted devices `GPL-3.0` [(Source code)](https://github.com/Hamza417/Inure)
 
-## Oct 03, 2024
-
-### File management
-
-*   [NMM File Manager / Text Edit](https://play.google.com/store/apps/details?id=in.mfile) - File manager & built-in text editor `Proprietary`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
