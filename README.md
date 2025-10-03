@@ -4,6 +4,17 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Oct 03, 2025
+
+### Customization
+
+*   [SetEdit: Settings Editor](https://play.google.com/store/apps/details?id=com.netvor.settings.database.editor) - View and edit settings from the system, global, and secure tables `Proprietary`
+*   [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains some easy-to-use tools to go beyond the level of control allowed by Android System `GPL-3.0`
+
+### Software management
+
+*   [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) - Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta)
+
 ## Sep 22, 2025
 
 ### Quick settings
@@ -104,12 +115,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Development libraries / Core
 
 *   [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - Developer documentation for Shizuku and Sui, including examples `Apache-2.0`
-
-## Jun 24, 2025
-
-### Software management
-
-*   [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) ✨ - Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta)
 
 ## Jun 18, 2025
 
@@ -361,7 +366,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Customization
 
 *   [GrooveLauncher](https://github.com/groovelauncher/GrooveLauncher) - Windows 8 Metro-styled launcher that can uninstall apps using Shizuku
-*   [ShizuTools](https://github.com/legendsayantan/ShizuTools) ✨ - Contains some easy-to-use tools to go beyond the level of control allowed by Android System `GPL-3.0`
 
 ### Vendor-specific / MIUI
 
