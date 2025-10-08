@@ -385,20 +385,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [X-Plore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) `Ads` `IAP` 💰 - File manager that can access Android/data and obb using Shizuku `Proprietary`
 
-## Oct 08, 2024
-
-### Display management
-
-*   [AG Displays](https://play.google.com/store/apps/details?id=com.htl.agdisplays) `Ads` - Launch other apps on external displays (TV/Monitor) or desktop mode on virtual displays while the phone screen can be used for other purposes or turned off `Proprietary`
-
-### Games
-
-*   [HandheldExp](https://github.com/Teppichseite/HandheldExp) - In-game menu for EmulationStation (ES-DE) on Android  `MIT`
-
-### Software management
-
-*   [krude](https://github.com/KusStar/krude) - All-in-one app and workflow launcher `MIT`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
