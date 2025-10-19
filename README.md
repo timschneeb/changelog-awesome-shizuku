@@ -9,7 +9,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Android TV
 
 *   [flicky](https://apt.izzysoft.de/packages/app.flicky) - An F-Droid client designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/flicky)
-*   [fluffy](https://apt.izzysoft.de/packages/app.fluffy) - A file manager and archive viewer designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy)
+*   [fluffy](https://apt.izzysoft.de/packages/app.fluffy) - An file manager and archive viewer designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy)
 
 ### Communication
 
