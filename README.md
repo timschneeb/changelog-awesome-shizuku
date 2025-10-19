@@ -4,6 +4,29 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Oct 19, 2025
+
+### Android TV
+
+*   [flicky](https://apt.izzysoft.de/packages/app.flicky) - An F-Droid client designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/flicky)
+*   [fluffy](https://apt.izzysoft.de/packages/app.fluffy) - An file manager and archive viewer designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy)
+
+### Communication
+
+*   [Bluesky Redirect](https://apt.izzysoft.de/fdroid/index/apk/io.github.turtlepaw.blueskyredirect) - A simple app for automatically launching Bluesky links in your preferred Bluesky client `MIT` [(Source code)](https://github.com/Turtlepaw/BlueskyRedirect)
+
+### Network
+
+*   [EasySpot](https://github.com/GGORG0/EasySpot) - An app that allows you to turn on your hotspot remotely via Bluetooth - think Apple Continuity, but for everyone `GPL-3.0`
+
+### Quick settings
+
+*   [DisplayToggle](https://f-droid.org/packages/io.github.ulysseszh.displaytoggle) - Provides quick settings tile and shortcuts to turn off the display without locking the screen or stopping foreground running apps `MIT` [(Source code)](https://github.com/UlyssesZh/DisplayToggle)
+
+### Vendor-specific / Google Pixel
+
+*   [TurboIMS](https://github.com/Turbo1123/TurboIMS) - Enhanced IMS Configuration Tool for Google Pixel devices `Proprietary`
+
 ## Oct 05, 2025
 
 ### Network
