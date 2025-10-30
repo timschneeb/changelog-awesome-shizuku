@@ -402,12 +402,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [MixFlipTool](https://github.com/parallelcc/MixFlipTool) - One-click configuration for Mix Flip's outer screen: Use any apps and restore system apps to default style `GPL-3.0`
 
-## Oct 30, 2024
-
-### File management
-
-*   [X-Plore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) `Ads` `IAP` 💰 - File manager that can access Android/data and obb using Shizuku `Proprietary`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
