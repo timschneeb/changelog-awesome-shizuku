@@ -392,16 +392,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)
 
-## Oct 31, 2024
-
-### Customization
-
-*   [GrooveLauncher](https://github.com/groovelauncher/GrooveLauncher) - Windows 8 Metro-styled launcher that can uninstall apps using Shizuku
-
-### Vendor-specific / MIUI
-
-*   [MixFlipTool](https://github.com/parallelcc/MixFlipTool) - One-click configuration for Mix Flip's outer screen: Use any apps and restore system apps to default style `GPL-3.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
