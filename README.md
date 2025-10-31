@@ -4,6 +4,21 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Oct 31, 2025
+
+### Network
+
+*   [de1984](https://github.com/dorumrr/de1984) - App firewall without using an VPN; can also manage packages `MIT`
+*   [NetWall](https://play.google.com/store/apps/details?id=com.ysy.app.firewall) `IAP` 💰 - Another app firewall that doesn't depend on a local VPN or root `Proprietary`
+*   [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) ✨ - Open-source app firewall that doesn't depend on VPNs or root `GPL-3.0`
+
+## Oct 22, 2025
+
+### Miscellaneous content / Flows for [Automate](https://llamalab.com/automate/)
+
+*   [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Automatically start Shizuku via wireless debugging on boot, WiFi connect, wake from doze, power (dis)connect, and/or on demand!
+*   [Shizuku Keeper](https://github.com/protonpony/Shizuku-Keeper/tree/main) - Continuously run Shizuku and ADB uninterrupted without root or Wi-Fi!
+
 ## Oct 19, 2025
 
 ### Android TV
@@ -79,12 +94,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - Android app for 4G/5G network mode switching `GPL-3.0`
 
-## Aug 28, 2025
-
-### Network
-
-*   [NetWall](https://play.google.com/store/apps/details?id=com.ysy.app.firewall) `IAP` 💰 - App firewall that doesn't depend on a local VPN or root `Proprietary`
-
 ## Aug 16, 2025
 
 ### Games
@@ -150,18 +159,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Development libraries / Core
 
 *   [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - Developer documentation for Shizuku and Sui, including examples `Apache-2.0`
-
-## Jun 18, 2025
-
-### Miscellaneous content / Flows for [Automate](https://llamalab.com/automate/)
-
-*   [Shizuku Watchdog](https://llamalab.com/automate/community/flows/51012) - Rootless script to automatically start the Shizuku service on boot and restart it if it stops
-
-## Jun 07, 2025
-
-### Miscellaneous content / Flows for [Automate](https://llamalab.com/automate/)
-
-*   [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Rootless script to automatically start the Shizuku service on boot, WiFi connect, wake from doze, power (dis)connect, and/or on demand
 
 ## Jun 06, 2025
 
