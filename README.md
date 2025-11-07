@@ -4,6 +4,24 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Nov 07, 2025
+
+### Games
+
+*   [Ascent](https://github.com/4o3F/Ascent) - A tool for retrieving gacha history links from Mihoyo games  `AGPL-3.0`
+
+### Installer & app stores
+
+*   [Neo-Store](https://f-droid.org/packages/com.machiav3lli.fdroid) - An F-Droid client with modern UI and an arsenal of extra features `GPL-3.0` [(Source code)](https://github.com/NeoApplications/Neo-Store)
+
+### Privacy
+
+*   [PrivacyFlip](https://f-droid.org/en/packages/io.github.dorumrr.privacyflip/) - Manage your device privacy based on lock/unlock state `MIT` [(Source code)](https://github.com/dorumrr/privacyflip)
+
+### Vendor-specific / Samsung OneUI
+
+*   [Fonts](https://apt.izzysoft.de/packages/com.je.fontsmanager.samsung) - One UI 8 rootless font installer `GPL-3.0` [(Source code)](https://github.com/jeeneo/fonts)
+
 ## Oct 31, 2025
 
 ### Network
