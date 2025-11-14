@@ -404,12 +404,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) `IAP` 💰 - Can backup external app files under Android/data and obb using Shizuku. Root required for full functionality `Proprietary`
 
-## Nov 14, 2024
-
-### Installer & app stores
-
-*   [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) - Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
