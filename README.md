@@ -10,6 +10,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [File Manager Plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager)  `Ads` `IAP` 💰 - Can manage your files and folders, whether on local device, NAS storage (via sftp, ftp, webdav or smb) or in the cloud (e.g. Google Drive). Supports Shizuku for Android/data, Android/obb and partly /. `Proprietary`
 
+### Miscellaneous content / Command-line utilities
+
+*   [AndroSH](https://github.com/ahmed-alnassif/AndroSH) - Professional Multi-Distribution Linux Environments for Android 🚀 Run Archlinux, Fedora, Alpine, Debian, Ubuntu & Kali with full Android system integration `GPL-3.0`
+
 ## Dec 02, 2025
 
 ### Miscellaneous content / Flows for [Automate](https://llamalab.com/automate/)
