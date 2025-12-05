@@ -4,6 +4,14 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Dec 02, 2025
+
+### Miscellaneous content / Flows for [Automate](https://llamalab.com/automate/)
+
+*   [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Check and automatically start Shizuku **13.6** on key events via wireless debugging with the *free* version of Automate.
+*   [Shizuku Keeper](https://llamalab.com/automate/community/flows/51118) - Continuously run Shizuku **13.6** or **ADB** uninterrupted without root, Wi-Fi, or cables via USB debugging with Automate *Premium.*
+    *   [Shizuku Keeper Lite](https://llamalab.com/automate/community/flows/51012) - Check Shizuku **13.6** at regular intervals and automatically restart it via wireless debugging with the *free* version of Automate.
+
 ## Nov 07, 2025
 
 ### Games
@@ -29,16 +37,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [de1984](https://github.com/dorumrr/de1984) - App firewall without using an VPN; can also manage packages `MIT`
 *   [NetWall](https://play.google.com/store/apps/details?id=com.ysy.app.firewall) `IAP` 💰 - Another app firewall that doesn't depend on a local VPN or root `Proprietary`
 *   [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) ✨ - Open-source app firewall that doesn't depend on VPNs or root `GPL-3.0`
-
-### Miscellaneous content / Flows for [Automate](https://llamalab.com/automate/)
-
-*   [Better Shizuku Starter](https://llamalab.com/automate/community/flows/50863) - Automatically start Shizuku via wireless debugging on boot, Wi-Fi connect, wake from doze, power (dis)connect, and/or on demand!
-
-## Oct 22, 2025
-
-### Miscellaneous content / Flows for [Automate](https://llamalab.com/automate/)
-
-*   [Shizuku Keeper](https://github.com/protonpony/Shizuku-Keeper/tree/main) - Continuously run Shizuku and ADB uninterrupted without root or Wi-Fi!
 
 ## Oct 19, 2025
 
