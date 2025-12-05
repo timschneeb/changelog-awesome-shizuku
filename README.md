@@ -8,7 +8,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Customization
 
-*   [DroidOS](https://github.com/Katsuyamaki/DroidOS) - Tiling window manager, Samsung DEX replacement, popup app launcher `Proprietary`
+*   [DroidOS](https://github.com/Katsuyamaki/DroidOS) ✨ - Tiling window manager, Samsung DEX replacement, popup app launcher `Proprietary`
 
 ### File management
 
@@ -29,7 +29,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Miscellaneous content / Command-line utilities
 
-*   [AndroSH](https://github.com/ahmed-alnassif/AndroSH) - Professional Multi-Distribution Linux Environments for Android 🚀 Run Archlinux, Fedora, Alpine, Debian, Ubuntu & Kali with full Android system integration `GPL-3.0`
+*   [AndroSH](https://github.com/ahmed-alnassif/AndroSH) - Professional Multi-Distribution Linux Environments for Android. Run Archlinux, Fedora, Alpine, Debian, Ubuntu & Kali with full Android system integration `GPL-3.0`
 
 ## Dec 02, 2025
 
