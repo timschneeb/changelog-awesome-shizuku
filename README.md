@@ -14,6 +14,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [File Manager Plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager)  `Ads` `IAP` 💰 - Can manage your files and folders, whether on local device, NAS storage (via sftp, ftp, webdav or smb) or in the cloud (e.g. Google Drive). Supports Shizuku for Android/data, Android/obb and partly /. `Proprietary`
 
+### Miscellaneous
+
+*   [maps-min](https://github.com/sameerasw/maps-min) - Google Maps Minimalistic mode for any device with Shizuku  `MPL-2.0`
+
 ### Patching
 
 *   [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - ReVanced patcher that has extra features the official manager doesn't have  `GPL-3.0`
