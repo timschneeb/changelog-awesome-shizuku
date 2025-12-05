@@ -6,9 +6,18 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## Dec 05, 2025
 
+### Customization
+
+*   [DroidOS](https://github.com/Katsuyamaki/DroidOS) - Tiling window manager, Samsung DEX replacement, popup app launcher `Proprietary`
+
 ### File management
 
 *   [File Manager Plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager)  `Ads` `IAP` 💰 - Can manage your files and folders, whether on local device, NAS storage (via sftp, ftp, webdav or smb) or in the cloud (e.g. Google Drive). Supports Shizuku for Android/data, Android/obb and partly /. `Proprietary`
+
+### Software management
+
+*   [Running Services Monitor](https://play.google.com/store/apps/details?id=me.biplobsd.rsm) - Monitor running services on your Android device `MIT` [(Source code)](https://github.com/biplobsd/running_services_monitor)
+*   [shappky](https://github.com/YasserNull/shappky) ✨ - A simple app to boost performance by stopping background apps. `GPL-3.0`
 
 ### Miscellaneous content / Command-line utilities
 
@@ -207,10 +216,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Games
 
 *   [CloudSync-Mobile](https://github.com/FawazTakahji/CloudSync-Mobile) - An app that allows you to sync your Stardew Valley saves across multiple devices `GPL-3.0`
-
-### Software management
-
-*   [shappky](https://github.com/YasserNull/shappky) ✨ - A simple app to boost performance by stopping background apps.  `GPL-3.0`
 
 ### Terminals
 
