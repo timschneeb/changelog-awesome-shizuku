@@ -14,6 +14,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [File Manager Plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager)  `Ads` `IAP` 💰 - Can manage your files and folders, whether on local device, NAS storage (via sftp, ftp, webdav or smb) or in the cloud (e.g. Google Drive). Supports Shizuku for Android/data, Android/obb and partly /. `Proprietary`
 
+### Patching
+
+*   [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - ReVanced patcher that has extra features the official manager doesn't have  `GPL-3.0`
+
 ### Software management
 
 *   [Running Services Monitor](https://play.google.com/store/apps/details?id=me.biplobsd.rsm) - Monitor running services on your Android device `MIT` [(Source code)](https://github.com/biplobsd/running_services_monitor)
@@ -381,7 +385,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## Jan 10, 2025
 
-### Miscellaneous
+### Patching
 
 *   [LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from LSPosed `GPL-3.0`
 
