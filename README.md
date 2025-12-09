@@ -6,6 +6,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## Dec 09, 2025
 
+### Customization
+
+*   [essentials](https://github.com/sameerasw/essentials) ✨ - Essential tools, mods and workarounds for Pixels. Also compatible with other devices `MIT`
+
 ### Miscellaneous
 
 *   [Operit AI](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android. Can run commands using Shizuku `LGPL-3.0`
