@@ -4,6 +4,16 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Dec 11, 2025
+
+### Entertainment
+
+*   [BILIBILIAS](https://f-droid.org/packages/com.imcys.bilibilias) - An auxiliary tool for BiliBili video caching, providing one-click caching `Apache-2.0` [(Source code)](https://github.com/1250422131/bilibilias)
+
+### Network
+
+*   [wifi-password-manager](https://github.com/Khh-vu/wifi-password-manager) - Simple app using Shizuku to manage & view saved Wi-Fi passwords  `MIT`
+
 ## Dec 09, 2025
 
 ### Customization
@@ -99,11 +109,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [TurboIMS](https://github.com/Turbo1123/TurboIMS) - Enhanced IMS Configuration Tool for Google Pixel devices `Proprietary`
 
 ## Oct 05, 2025
-
-### Network
-
-*   [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) `Paid` 💰 - View your saved WiFi passwords on Android 11 and later without root `Proprietary` [(Source code)](https://github.com/zacharee/WiFiList)
-    *   [WiFiList (Fork)](https://github.com/jaredcat/WiFiList) - Fork of 'WiFiList' `Proprietary`
 
 ### Vendor-specific / MIUI
 
