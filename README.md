@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Dec 13, 2025
+
+### Customization
+
+*   [Ambient-Theme](https://play.google.com/store/apps/details?id=dev.lexip.hecate) - Smart dark mode based on ambient light `GPL-3.0` [(Source code)](https://github.com/xLexip/Adaptive-Theme)
+
 ## Dec 11, 2025
 
 ### Entertainment
