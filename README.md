@@ -112,7 +112,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Vendor-specific / Google Pixel
 
-*   [TurboIMS](https://github.com/Turbo1123/TurboIMS) - Enhanced IMS Configuration Tool for Google Pixel devices `Proprietary`
+*   [TurboIMS](https://github.com/Turbo1123/TurboIMS) - Enhanced IMS Configuration Tool for Google Pixel devices `Apache-2.0`
 
 ## Oct 05, 2025
 
@@ -183,7 +183,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Installer & app stores
 
-*   [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) - A lightweight app installer replacement with split APK support `Proprietary`
+*   [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) - A lightweight app installer replacement with split APK support `Apache-2.0`
 
 ### Power management
 
@@ -392,7 +392,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Power management
 
-*   [zukulock](https://github.com/tiendnm/zukulock) - Very lightweight app that locks the screen when launched. Helps reduce wear on the power button `Proprietary`
+*   [zukulock](https://github.com/tiendnm/zukulock) - Very lightweight app that locks the screen when launched. Helps reduce wear on the power button `MIT`
 
 ### Productivity
 
