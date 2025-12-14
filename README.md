@@ -434,12 +434,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [ServiceManagerCompat](https://github.com/SanmerApps/ServiceManagerCompat) - ServiceManager bindings `MIT`
 
-## Dec 14, 2024
-
-### Automation
-
-*   [AutoJs6](https://github.com/SuperMonster003/AutoJs6) - JavaScript-based automation tool `MPL-2.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
