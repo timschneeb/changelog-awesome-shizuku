@@ -4,11 +4,15 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
-## Dec 13, 2025
+## Dec 15, 2025
 
 ### Customization
 
 *   [Adaptive-Theme](https://play.google.com/store/apps/details?id=dev.lexip.hecate) - Smart dark mode based on ambient light `GPL-3.0` [(Source code)](https://github.com/xLexip/Adaptive-Theme)
+
+### Software management
+
+*   [Running Services Monitor](https://play.google.com/store/apps/details?id=me.biplobsd.rsm) - Monitor running services on your Android device `MIT` [(Source code)](https://github.com/biplobsd/running_services_monitor)
 
 ## Dec 11, 2025
 
@@ -50,7 +54,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Software management
 
-*   [Running Services Monitor](https://play.google.com/store/apps/details?id=me.biplobsd.rsm) - Monitor running services on your Android device `MIT` [(Source code)](https://github.com/biplobsd/running_services_monitor)
 *   [shappky](https://github.com/YasserNull/shappky) ✨ - A simple app to boost performance by stopping background apps. `GPL-3.0`
 
 ### Miscellaneous content / Command-line utilities
