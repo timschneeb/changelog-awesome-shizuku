@@ -10,6 +10,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [FireWall Blocks](https://github.com/shynoiddev/FireWall-Blocks) - Dual-mode firewall: blocks internet access using Shizuku or a standard local VPN interface or both. `MIT`
 
+### Power management
+
+*   [BatStats](https://github.com/mlm-games/BatStats) - Battery monitor with stats via Shizuku `GPL-3.0`
+
 ## Dec 15, 2025
 
 ### Customization
