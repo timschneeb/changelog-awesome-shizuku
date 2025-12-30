@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Dec 30, 2025
+
+### Power management
+
+*   [battery-stats-changer](https://github.com/superisuer/battery-stats-changer) - Open source app to visually change battery data via Shizuku `GPL-3.0`
+
 ## Dec 23, 2025
 
 ### Automation
@@ -344,7 +350,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Power management
 
-*   [dumpsys-battery-manager](https://github.com/superisuer/dumpsys-battery-manager) - View and change the battery values using the dumpsys command `GPL-3.0`
 *   [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - Extinguish turns your screen off but keeps your device awake `Proprietary`
 *   [rebootmenu](https://github.com/ryuunoakaihitomi/rebootmenu) - Lock the screen or open the power menu using shortcuts. Useful if your power button is broken. `MIT`
 
