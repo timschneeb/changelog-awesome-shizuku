@@ -9,6 +9,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Power management
 
 *   [battery-stats-changer](https://github.com/superisuer/battery-stats-changer) - Open source app to visually change battery data via Shizuku `GPL-3.0`
+*   [FDE.AI](https://github.com/feravolt/FDE.AI-docs/releases) `IAP` 💰 - All-in-One optimizer for Android `Proprietary`
 
 ## Dec 23, 2025
 
