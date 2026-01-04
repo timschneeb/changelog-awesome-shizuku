@@ -6,6 +6,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## Jan 04, 2026
 
+### Games
+
+*   [Okkei Patcher](https://github.com/solrudev/OkkeiPatcher) - Companion app for localizing the Android version of CHAOS;CHILD visual novel `GPL-3.0`
+
 ### Power management
 
 *   [EnforceDoze](https://f-droid.org/packages/com.akylas.enforcedoze/) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life `GPL-3.0` [(Source code)](https://github.com/farfromrefug/EnforceDoze)
