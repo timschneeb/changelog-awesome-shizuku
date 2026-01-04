@@ -90,7 +90,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Entertainment
 
-*   [BILIBILIAS](https://f-droid.org/packages/com.imcys.bilibilias) - An auxiliary tool for BiliBili video caching, providing one-click caching `Apache-2.0` [(Source code)](https://github.com/1250422131/bilibilias)
+*   [BILIBILIAS](https://f-droid.org/packages/com.imcys.bilibilias/) - An auxiliary tool for BiliBili video caching, providing one-click caching `Apache-2.0` [(Source code)](https://github.com/1250422131/bilibilias)
 
 ### Network
 
@@ -115,10 +115,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### File management
 
 *   [File Manager Plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager)  `Ads` `IAP` 💰 - Can manage your files and folders, whether on local device, NAS storage (via sftp, ftp, webdav or smb) or in the cloud (e.g. Google Drive). Supports Shizuku for Android/data, Android/obb and partly /. `Proprietary`
-
-### Miscellaneous
-
-*   [maps-min](https://github.com/sameerasw/maps-min) - Google Maps Minimalistic mode for any device with Shizuku  `MPL-2.0`
 
 ### Patching
 
@@ -148,7 +144,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Installer & app stores
 
-*   [Neo-Store](https://f-droid.org/packages/com.machiav3lli.fdroid) - An F-Droid client with modern UI and an arsenal of extra features `GPL-3.0` [(Source code)](https://github.com/NeoApplications/Neo-Store)
+*   [Neo-Store](https://f-droid.org/packages/com.machiav3lli.fdroid/) - An F-Droid client with modern UI and an arsenal of extra features `GPL-3.0` [(Source code)](https://github.com/NeoApplications/Neo-Store)
 
 ### Privacy
 
@@ -156,7 +152,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Vendor-specific / Samsung OneUI
 
-*   [Fonts](https://apt.izzysoft.de/packages/com.je.fontsmanager.samsung) - One UI 8 rootless font installer `GPL-3.0` [(Source code)](https://github.com/jeeneo/fonts)
+*   [Fonts](https://apt.izzysoft.de/fdroid/index/apk/com.je.fontsmanager.samsung) - One UI 8 rootless font installer `GPL-3.0` [(Source code)](https://codeberg.org/dryerlint/fontsmanager)
 
 ## Oct 31, 2025
 
@@ -170,8 +166,8 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Android TV
 
-*   [flicky](https://apt.izzysoft.de/packages/app.flicky) - An F-Droid client designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/flicky)
-*   [fluffy](https://apt.izzysoft.de/packages/app.fluffy) - An file manager and archive viewer designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy)
+*   [flicky](https://apt.izzysoft.de/fdroid/index/apk/app.flicky) - An F-Droid client designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/flicky)
+*   [fluffy](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy) - An file manager and archive viewer designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy)
 
 ### Communication
 
@@ -179,11 +175,11 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Network
 
-*   [EasySpot](https://github.com/GGORG0/EasySpot) - An app that allows you to turn on your hotspot remotely via Bluetooth - think Apple Continuity, but for everyone `GPL-3.0`
+*   [EasySpot](https://github.com/EasySpotApp/EasySpot) - An app that allows you to turn on your hotspot remotely via Bluetooth - think Apple Continuity, but for everyone `GPL-3.0`
 
 ### Quick settings
 
-*   [DisplayToggle](https://f-droid.org/packages/io.github.ulysseszh.displaytoggle) - Provides quick settings tile and shortcuts to turn off the display without locking the screen or stopping foreground running apps `MIT` [(Source code)](https://github.com/UlyssesZh/DisplayToggle)
+*   [DisplayToggle](https://f-droid.org/packages/io.github.ulysseszh.displaytoggle/) - Provides quick settings tile and shortcuts to turn off the display without locking the screen or stopping foreground running apps `MIT` [(Source code)](https://github.com/UlyssesZh/DisplayToggle)
 
 ### Vendor-specific / Google Pixel
 
@@ -312,7 +308,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Communication
 
-*   [Kettu](https://github.com/C0C0B01/Kettu) - Discord modding tool. Continuation of the abandoned [Bunny-Manager](https://github.com/bunny-mod/BunnyManager) project `OSL-3.0`
+*   [Kettu](https://github.com/C0C0B01/Kettu) - Discord modding tool. Continuation of the abandoned Bunny-Manager project `OSL-3.0`
 *   [revenge-manager](https://github.com/revenge-mod/revenge-manager) - Discord modding tool. Another continuation of the abandoned [Bunny-Manager](https://github.com/bunny-mod/BunnyManager) project `OSL-3.0`
 
 ## May 20, 2025
@@ -364,7 +360,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Power management
 
 *   [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - Extinguish turns your screen off but keeps your device awake `Proprietary`
-*   [rebootmenu](https://github.com/ryuunoakaihitomi/rebootmenu) - Lock the screen or open the power menu using shortcuts. Useful if your power button is broken. `MIT`
 
 ### Software management
 
@@ -379,12 +374,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Vendor-specific / MIUI
 
 *   [NavigationSwitcher](https://github.com/chiyuki0325/NavigationSwitcher) - Enable 3-button navigation in rhythm games for MIUI / HyperOS  `Proprietary`
-
-## Apr 07, 2025
-
-### Device owner (DPM)
-
-*   [HardenDroid](https://github.com/oddbyte/HardenDroid) - Shizuku & dhizuku app to allow you to manage users without root `Apache-2.0`
 
 ## Mar 25, 2025
 
@@ -409,7 +398,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Development utilities
 
-*   [Logra](https://github.com/wingio/Logra) - Material You logcat viewer for Android `GPL-2.0`
 *   [ManageSensors](https://github.com/Carry-rrk/ManageSensors) - Utilizes Shizuku to call AppOps APIs for fine-grained app permission control `MIT`
 
 ### Display management
@@ -458,7 +446,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Installer & app stores
 
-*   [instafel-updater](https://github.com/mamiiblt/instafel-updater) - Updater app for Instafel, an Instagram mod `Apache-2.0`
+*   [instafel](https://github.com/mamiiblt/instafel) - Updater app for Instafel, an Instagram mod `MIT`
 
 ### Network
 
