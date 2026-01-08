@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Jan 08, 2026
+
+### Miscellaneous
+
+*   [NotiFixer](https://github.com/dkajan19/NotiFixer) - Android utility to make notifications persistent/undismissable using Shizuku `MIT`
+
 ## Jan 04, 2026
 
 ### Games
