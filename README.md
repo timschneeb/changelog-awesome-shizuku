@@ -480,12 +480,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - Android port of the desktop Total Commander app (Version 3.60 beta or later) `Proprietary`
 
-## Jan 10, 2025
-
-### Patching
-
-*   [LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from LSPosed `GPL-3.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
