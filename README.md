@@ -474,12 +474,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [MMRL](https://github.com/MMRLApp/MMRL) `Root` - Manage your Magisk module repository `GPL-3.0`
 
-## Jan 22, 2025
-
-### File management
-
-*   [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - Android port of the desktop Total Commander app (Version 3.60 beta or later) `Proprietary`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
