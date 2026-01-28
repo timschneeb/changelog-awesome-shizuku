@@ -444,36 +444,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [KeyMapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper) ✨ - An Android app that changes what the buttons do on your devices! `GPL-3.0` [(Source code)](https://github.com/keymapperorg/KeyMapper)
 
-## Jan 28, 2025
-
-### Communication
-
-*   [CatShare](https://f-droid.org/packages/moe.reimu.catshare/) - Send and receive files over Bluetooth `MIT` [(Source code)](https://github.com/kmod-midori/CatShare)
-
-### Customization
-
-*   [LinkSheet](https://github.com/LinkSheet/LinkSheet) - Restore the Android <12 Url-App-Link-Chooser with Material3  `Modified MPL-2.0`
-
-### Installer & app stores
-
-*   [instafel](https://github.com/mamiiblt/instafel) - Updater app for Instafel, an Instagram mod `MIT`
-
-### Network
-
-*   [delta](https://github.com/supershadoe/delta) - Hotspot manager using Shizuku `BSD-3-Clause`
-
-### Power management
-
-*   [zukulock](https://github.com/tiendnm/zukulock) - Very lightweight app that locks the screen when launched. Helps reduce wear on the power button `MIT`
-
-### Productivity
-
-*   [digipaws](https://f-droid.org/packages/nethical.digipaws/) ✨ - Tool to reduce screen addiction by regulating app usage through a gamified experience `GPL-3.0` [(Source code)](https://github.com/nethical6/digipaws)
-
-### Software management
-
-*   [MMRL](https://github.com/MMRLApp/MMRL) `Root` - Manage your Magisk module repository `GPL-3.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
