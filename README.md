@@ -4,6 +4,25 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Feb 03, 2026
+
+### Customization
+
+*   [gama](https://github.com/popovicialinc/gama) - Can switch between OpenGL and Vulkan renderers by setting the `debug.hwui.renderer` system property `Proprietary`
+*   [Jarngreipr](https://github.com/BrianJr03/Jarngreipr) - Launcher for dual-screen gaming devices. Uses Shizuku to map on of the touch screens to controller inputs `MIT`
+
+### Display management
+
+*   [deskcontrol](https://github.com/exiarepairii/deskcontrol) - Turns your phone into a touchpad and keyboard for a single app running on a wired external display `GPL-3.0`
+
+### Network
+
+*   [traffic-light](https://f-droid.org/en/packages/com.leekleak.trafficlight) - A persistent network speed tracker in your status bar `GPL-3.0` [(Source code)](https://github.com/leekleak/traffic-light)
+
+### Vendor-specific / Nothing Phone
+
+*   [Recording-Light-Control](https://github.com/Farpathan/Recording-Light-Control) - Recording Light Control gives precise control over the Nothing Phone (3)'s recording light `Proprietary`
+
 ## Jan 08, 2026
 
 ### Miscellaneous
