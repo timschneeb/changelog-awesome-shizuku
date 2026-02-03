@@ -420,16 +420,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [BiliDownOut](https://f-droid.org/en/packages/cn.a10miaomiao.bilidown/) - Export videos downloaded from the Android version of Bilibili `GPL-3.0` [(Source code)](https://github.com/10miaomiao/bili-down-out)
 
-## Feb 03, 2025
-
-### Customization
-
-*   [Tarnhelm](https://f-droid.org/packages/cn.ac.lz233.tarnhelm/) - Clean up tracking from sharing links. Supports custom URL rewrite rules `GPL-3.0` [(Source code)](https://github.com/lz233/Tarnhelm)
-
-### Development libraries / Core
-
-*   [Shizuku-Plugin (Flutter)](https://github.com/santhosh-D-subramani/Shizuku-Plugin) - Shizuku API bindings for Flutter apps `GPL-3.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
