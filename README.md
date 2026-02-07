@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Feb 06, 2026
+
+### Miscellaneous content / Command-line utilities
+
+*   [AndroSH](https://github.com/ahmed-alnassif/AndroSH) - Professional Multi-Distribution Linux Environments for Android. Run Archlinux, Fedora, Alpine, Debian, Ubuntu, Kali, Void, Manjaro & Chimera with full Android system integration `GPL-3.0`
+
 ## Feb 04, 2026
 
 ### Development utilities
@@ -158,10 +164,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Software management
 
 *   [shappky](https://github.com/YasserNull/shappky) ✨ - A simple app to boost performance by stopping background apps. `GPL-3.0`
-
-### Miscellaneous content / Command-line utilities
-
-*   [AndroSH](https://github.com/ahmed-alnassif/AndroSH) - Professional Multi-Distribution Linux Environments for Android. Run Archlinux, Fedora, Alpine, Debian, Ubuntu & Kali with full Android system integration `GPL-3.0`
 
 ## Dec 02, 2025
 
