@@ -441,12 +441,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Grayscaler](https://github.com/C10udburst/Grayscaler) - Keep your phone mostly monochrome, but allow apps like camera to be in color `GPL-3.0`
 
-## Feb 08, 2025
-
-### Entertainment
-
-*   [BiliDownOut](https://f-droid.org/en/packages/cn.a10miaomiao.bilidown/) - Export videos downloaded from the Android version of Bilibili `GPL-3.0` [(Source code)](https://github.com/10miaomiao/bili-down-out)
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
