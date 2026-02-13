@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Feb 13, 2026
+
+### Input methods
+
+*   [TitanPad](https://github.com/sztupy/TitanPad) - Converts the Titan2's Physical Keyboard's capacitive input into mouse and scroll gestures. Uses Shizuku for reading the trackpad input and setting up virtual HID devices `Apache-2.0`
+
 ## Feb 10, 2026
 
 ### Automation
