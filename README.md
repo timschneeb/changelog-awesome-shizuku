@@ -443,16 +443,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch) `IAP` 💰 - Add custom swipe-from-edge gestures to Android `Propietary`
 
-## Feb 19, 2025
-
-### Development utilities
-
-*   [ManageSensors](https://github.com/Carry-rrk/ManageSensors) - Utilizes Shizuku to call AppOps APIs for fine-grained app permission control `MIT`
-
-### Display management
-
-*   [Grayscaler](https://github.com/C10udburst/Grayscaler) - Keep your phone mostly monochrome, but allow apps like camera to be in color `GPL-3.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
