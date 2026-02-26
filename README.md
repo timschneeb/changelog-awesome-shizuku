@@ -437,12 +437,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2) `Ads` `IAP` 💰 - File explorer `Proprietary`
 
-## Feb 26, 2025
-
-### Customization
-
-*   [UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch) `IAP` 💰 - Add custom swipe-from-edge gestures to Android `Propietary`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
