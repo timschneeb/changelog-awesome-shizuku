@@ -4,6 +4,24 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Mar 05, 2026
+
+### Games
+
+*   [BDroid\_X](https://github.com/Ark-Repoleved/BDroid_X) - Browndust II Mod manager `Proprietary`
+
+### Input methods
+
+*   [andRemote2](https://github.com/c0dev0id/andRemote2) - Emulates the DMD Remote 2 for map apps `Properietary`
+
+### Installer & app stores
+
+*   [florid](https://github.com/Nandanrmenon/florid) - Material3 F‑Droid Client `GPL-3.0`
+
+### Miscellaneous
+
+*   [telegram-rc](https://github.com/telegram-sms/telegram-rc) - Remote control your device via Telegram messages `BSD 3-Clause`
+
 ## Feb 13, 2026
 
 ### Input methods
