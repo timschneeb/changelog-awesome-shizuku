@@ -449,12 +449,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [C9](https://github.com/austinauyeung/C9) - Efficient grid-based cursor provided alongside a traditional cursor. Shizuku is only required on Android 11. `Apache-2.0`
 *   [keysync](https://github.com/aka-munan/keysync) - Play games using mouse and keyboard on Android device; keymapper for games `Apache-2.0`
 
-## Mar 18, 2025
-
-### File management
-
-*   [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2) `Ads` `IAP` 💰 - File explorer `Proprietary`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
