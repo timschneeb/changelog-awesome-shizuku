@@ -442,13 +442,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [NavigationSwitcher](https://github.com/chiyuki0325/NavigationSwitcher) - Enable 3-button navigation in rhythm games for MIUI / HyperOS  `Proprietary`
 
-## Mar 25, 2025
-
-### Input methods
-
-*   [C9](https://github.com/austinauyeung/C9) - Efficient grid-based cursor provided alongside a traditional cursor. Shizuku is only required on Android 11. `Apache-2.0`
-*   [keysync](https://github.com/aka-munan/keysync) - Play games using mouse and keyboard on Android device; keymapper for games `Apache-2.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
