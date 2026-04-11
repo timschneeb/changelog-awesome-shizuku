@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Apr 11, 2026
+
+### Audio
+
+*   [PrecisEQ](https://play.google.com/store/apps/details?id=com.yokodev.preciseqpro) `IAP` 💰 - Use spatial audio, headphone calibration, and parametric equalizer system-wide. `Proprietary`
+
 ## Mar 05, 2026
 
 ### Games
