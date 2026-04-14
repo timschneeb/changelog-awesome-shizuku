@@ -4,11 +4,53 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
-## Apr 13, 2026
+## Apr 14, 2026
 
 ### Audio
 
-*   [PrecisEQ](https://play.google.com/store/apps/details?id=com.yokodev.preciseqpro) `Paid` `IAP` `30-second trial` 💰 - Use spatial audio, headphone calibration, and parametric equalizer system-wide. `Proprietary`
+*   [MicUp](https://github.com/papergray/MicUp) ✨ - Real-time microphone audio processing for Android `MIT`
+*   [PrecisEQ](https://play.google.com/store/apps/details?id=com.yokodev.preciseqpro) `Paid/IAP` `30-second trial` 💰 - Use spatial audio, headphone calibration, and parametric equalizer system-wide. `Proprietary`
+
+### Customization
+
+*   [CustomAnimator](https://play.google.com/store/apps/details?id=com.arslan.customanimator) - Customize animation speeds on a more fine-grained level `GPL-3.0` [(Source code)](https://github.com/AhmetCanArslan/CustomAnimator)
+*   [Dragon-Launcher](https://f-droid.org/packages/org.elnix.dragonlauncher/) ✨ - Highly customizable, gestures based Android launcher focused on speed and efficiency `GPL-3.0` [(Source code)](https://github.com/Elnix90/Dragon-Launcher)
+*   [OmniPrompt](https://github.com/mrndstvndv/OmniPrompt) - A keyboard-first Android command palette that unifies app/device search, and system utilities into an overlay `GPL-3.0`
+*   [ShizukuShortcuts](https://github.com/yshalsager/ShizukuShortcuts) - Create launcher shortcuts for shell commands `GPL-3.0`
+*   [YoukiDEX](https://github.com/mrYouki/YoukiDex-Android-Desktop) - A full desktop experience layer for Android `GPL-3.0`
+
+### Development utilities
+
+*   [FPSViewer](https://github.com/binhmod/FPSViewer) - FPS viewer overlay with graph `Proprietary`
+
+### Miscellaneous
+
+*   [AppBooster](https://github.com/androidexpert35/AppBooster) - GUI for Android's builtin `dex2oat` utility, allowing DEX code of installed apps to be re-optimized `Apache-2.0`
+*   [HiddenAlarmRevealer](https://github.com/AhmetCanArslan/HiddenAlarmRevealer) - Find the reason why the alarm icon is active in the status bar `Properietary`
+
+### Network
+
+*   [ADNS](https://github.com/eyalm2000/adns) - DNS-based ad blocker for Android `MIT`
+
+### Power management
+
+*   [NoMoreBackground](https://f-droid.org/packages/com.adilhanney.no_more_background/) - A fire-and-forget program to stop Android apps from running in the background `GPL-3.0` [(Source code)](https://github.com/adil192/no_more_background)
+
+### Software management
+
+*   [Buge App Manager](https://github.com/BugeStudioTeam/Buge-App-Manager) - An app manager focusing on permission management `GPL-3.0`
+
+### Task manager
+
+*   [Pensum](https://github.com/troikoss/Pensum) ✨ - Windows-style Task Manager for Android `GPL-3.0`
+
+### Terminals
+
+*   [Haven](https://f-droid.org/packages/sh.haven.app) - Terminal, SSH, VNC, RDP, SFTP & cloud storage client for Android `AGPL-3.0`
+
+### Vendor-specific / Samsung OneUI
+
+*   [ShutterMute](https://github.com/ajebulon/ShutterMute) - Disable the forced camera shutter sounds on Samsung devices that have their CSC set to certain countries with this restriction `Proprietary`
 
 ## Mar 05, 2026
 
@@ -159,7 +201,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Adaptive-Theme](https://play.google.com/store/apps/details?id=dev.lexip.hecate) - Smart dark mode based on ambient light `GPL-3.0` [(Source code)](https://github.com/xLexip/Adaptive-Theme)
 
-### Software management
+### Task manager
 
 *   [Running Services Monitor](https://play.google.com/store/apps/details?id=me.biplobsd.rsm) - Monitor running services on your Android device `MIT` [(Source code)](https://github.com/biplobsd/running_services_monitor)
 
@@ -197,7 +239,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - ReVanced patcher that has extra features the official manager doesn't have  `GPL-3.0`
 
-### Software management
+### Task manager
 
 *   [shappky](https://github.com/YasserNull/shappky) ✨ - A simple app to boost performance by stopping background apps. `GPL-3.0`
 
@@ -335,7 +377,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Privacy
 
-*   [AppLock](https://github.com/PranavPurwar/AppLock) ✨ - Lock sensitive apps with a PIN and optionally biometrics `MIT`
+*   [AppLock](https://github.com/aload0/AppLock) ✨ - Lock sensitive apps with a PIN and optionally biometrics `MIT`
 
 ### Quick settings
 
