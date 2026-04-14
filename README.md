@@ -359,10 +359,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Geto](https://github.com/JackEblan/Geto) - Automatically change device settings when a specific app is launched. `GPL-3.0`
 
-### Customization
-
-*   [setbox](https://github.com/YasserNull/setbox) - Modifies Android system settings through community-developed modules `GPL-3.0`
-
 ### Installer & app stores
 
 *   [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) - A lightweight app installer replacement with split APK support `Apache-2.0`
