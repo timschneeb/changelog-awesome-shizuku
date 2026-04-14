@@ -46,7 +46,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Terminals
 
-*   [Haven](https://f-droid.org/packages/sh.haven.app) - Terminal, SSH, VNC, RDP, SFTP & cloud storage client for Android `AGPL-3.0`
+*   [Haven](https://f-droid.org/packages/sh.haven.app/) - Terminal, SSH, VNC, RDP, SFTP & cloud storage client for Android `AGPL-3.0`
 
 ### Vendor-specific / Samsung OneUI
 
@@ -98,7 +98,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Customization
 
-*   [gama](https://github.com/popovicialinc/gama) - Can switch between OpenGL and Vulkan renderers by setting the `debug.hwui.renderer` system property `Proprietary`
+*   [gama](https://github.com/palincat/gama) - Can switch between OpenGL and Vulkan renderers by setting the `debug.hwui.renderer` system property `MIT`
 *   [Jarngreipr](https://github.com/BrianJr03/Jarngreipr) - Launcher for dual-screen gaming devices. Uses Shizuku to map on of the touch screens to controller inputs `MIT`
 
 ### Display management
@@ -107,7 +107,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Network
 
-*   [traffic-light](https://f-droid.org/en/packages/com.leekleak.trafficlight) - A persistent network speed tracker in your status bar `GPL-3.0` [(Source code)](https://github.com/leekleak/traffic-light)
+*   [traffic-light](https://f-droid.org/en/packages/com.leekleak.trafficlight/) - A persistent network speed tracker in your status bar `GPL-3.0` [(Source code)](https://github.com/leekleak/traffic-light)
 
 ### Vendor-specific / Nothing Phone
 
@@ -206,10 +206,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [Running Services Monitor](https://play.google.com/store/apps/details?id=me.biplobsd.rsm) - Monitor running services on your Android device `MIT` [(Source code)](https://github.com/biplobsd/running_services_monitor)
 
 ## Dec 11, 2025
-
-### Entertainment
-
-*   [BILIBILIAS](https://f-droid.org/packages/com.imcys.bilibilias/) - An auxiliary tool for BiliBili video caching, providing one-click caching `Apache-2.0` [(Source code)](https://github.com/1250422131/bilibilias)
 
 ### Network
 
@@ -391,7 +387,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Network
 
-*   [WG Tunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. `MIT`
+*   [WG Tunnel](https://github.com/wgtunnel/android) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. `MIT`
 
 ## Jul 11, 2025
 
