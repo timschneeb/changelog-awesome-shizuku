@@ -23,10 +23,16 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [FPSViewer](https://github.com/binhmod/FPSViewer) - FPS viewer overlay with graph `Proprietary`
 
+### Installer & app stores
+
+*   [GitHub-Store](https://f-droid.org/packages/zed.rainxch.githubstore/) - App store for GitHub releases with discovery function `Apache-2.0` [(Source code)](https://github.com/OpenHub-Store/GitHub-Store)
+*   [Orion Store](https://github.com/RookieEnough/Orion-Store) - App store for modded apps `GPL-3.0`
+
 ### Miscellaneous
 
 *   [AppBooster](https://github.com/androidexpert35/AppBooster) - GUI for Android's builtin `dex2oat` utility, allowing DEX code of installed apps to be re-optimized `Apache-2.0`
 *   [HiddenAlarmRevealer](https://github.com/AhmetCanArslan/HiddenAlarmRevealer) - Find the reason why the alarm icon is active in the status bar `Properietary`
+*   [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Exploits CVE-2024-31317 for Zygote injection, integrating remote terminal and file transfer capabilities `MIT`
 
 ### Network
 
@@ -51,6 +57,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Vendor-specific / Samsung OneUI
 
 *   [ShutterMute](https://github.com/ajebulon/ShutterMute) - Disable the forced camera shutter sounds on Samsung devices that have their CSC set to certain countries with this restriction `Proprietary`
+
+### Vendor-specific / Other
+
+*   [RedTrigger](https://github.com/zampierilucas/RedTrigger) - System-wide shoulder triggers for Nubia Red Magic phones `MIT`
 
 ## Mar 05, 2026
 
@@ -109,7 +119,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [traffic-light](https://f-droid.org/en/packages/com.leekleak.trafficlight/) - A persistent network speed tracker in your status bar `GPL-3.0` [(Source code)](https://github.com/leekleak/traffic-light)
 
-### Vendor-specific / Nothing Phone
+### Vendor-specific / Other
 
 *   [Recording-Light-Control](https://github.com/Farpathan/Recording-Light-Control) - Recording Light Control gives precise control over the Nothing Phone (3)'s recording light `Proprietary`
 
