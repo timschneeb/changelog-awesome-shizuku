@@ -4,24 +4,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
-## Apr 15, 2026
-
-### Entertainment
-
-*   [BiliDownOut](https://f-droid.org/packages/cn.a10miaomiao.bilidown/) - Export videos downloaded from the Android version of Bilibili `GPL-3.0` [(Source code)](https://github.com/10miaomiao/bili-down-out)
-
-### Installer & app stores
-
-*   [AuroraStore](https://f-droid.org/packages/com.aurora.store/) - An open-source alternative to Google Play Store with privacy and modern design `GPL-3.0` [(Source code)](https://gitlab.com/AuroraOSS/AuroraStore)
-
-### Network
-
-*   [Traffic Light](https://play.google.com/store/apps/details?id=com.leekleak.trafficlight) - A persistent network speed tracker in your status bar `GPL-3.0` [(Source code)](https://github.com/leekleak/traffic-light)
-
-### Privacy
-
-*   [PrivacyFlip](https://f-droid.org/packages/io.github.dorumrr.privacyflip/) - Manage your device privacy based on lock/unlock state `MIT` [(Source code)](https://github.com/dorumrr/privacyflip)
-
 ## Apr 14, 2026
 
 ### Audio
@@ -132,6 +114,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Display management
 
 *   [deskcontrol](https://github.com/exiarepairii/deskcontrol) - Turns your phone into a touchpad and keyboard for a single app running on a wired external display `GPL-3.0`
+
+### Network
+
+*   [Traffic Light](https://play.google.com/store/apps/details?id=com.leekleak.trafficlight) - A persistent network speed tracker in your status bar `GPL-3.0` [(Source code)](https://github.com/leekleak/traffic-light)
 
 ### Vendor-specific / Other
 
@@ -280,6 +266,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Installer & app stores
 
 *   [Neo-Store](https://f-droid.org/packages/com.machiav3lli.fdroid/) - An F-Droid client with modern UI and an arsenal of extra features `GPL-3.0` [(Source code)](https://github.com/NeoApplications/Neo-Store)
+
+### Privacy
+
+*   [PrivacyFlip](https://f-droid.org/packages/io.github.dorumrr.privacyflip/) - Manage your device privacy based on lock/unlock state `MIT` [(Source code)](https://github.com/dorumrr/privacyflip)
 
 ### Vendor-specific / Samsung OneUI
 
