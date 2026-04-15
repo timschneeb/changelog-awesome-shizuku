@@ -4,6 +4,13 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Apr 15, 2026
+
+### AI agents
+
+*   [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android/blob/main/README_EN.md) - Automates actions on your device using the AutoGLM vision language model `GPL-3.0`
+*   [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM/blob/main/README_en.md) - Automation and Multitasking Framework using AutoGLM. Can create virtual screens that agents can run apps on and use multi-window `Apache 2.0`
+
 ## Apr 14, 2026
 
 ### Audio
@@ -223,13 +230,13 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## Dec 09, 2025
 
+### AI agents
+
+*   [Operit AI](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android. Can run commands using Shizuku `LGPL-3.0`
+
 ### Customization
 
 *   [essentials](https://github.com/sameerasw/essentials) ✨ - Essential tools, mods and workarounds for Pixels. Also compatible with other devices `MIT`
-
-### Miscellaneous
-
-*   [Operit AI](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android. Can run commands using Shizuku `LGPL-3.0`
 
 ## Dec 05, 2025
 
