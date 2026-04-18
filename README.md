@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Apr 18, 2026
+
+### Audio
+
+*   [PrecisEQ](https://play.google.com/store/apps/details?id=com.yokodev.preciseqpro) `IAP` 💰 - Use spatial audio, headphone calibration, PEQ and convolver system-wide. `Proprietary`
+
 ## Apr 15, 2026
 
 ### AI agents
@@ -16,7 +22,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Audio
 
 *   [MicUp](https://github.com/papergray/MicUp) ✨ - Real-time microphone audio processing for Android `MIT`
-*   [PrecisEQ](https://play.google.com/store/apps/details?id=com.yokodev.preciseqpro) `Paid/IAP` `30-second trial` 💰 - Use spatial audio, headphone calibration, and parametric equalizer system-wide. `Proprietary`
 
 ### Customization
 
