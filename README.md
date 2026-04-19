@@ -6,10 +6,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## Apr 19, 2026
 
-### Audio
-
-*   [VolumeManager](https://github.com/yume-chan/VolumeManager) - Control each app's volume independently `GPL-2.0`
-
 ### Software management
 
 *   [DisabledLauncher](https://github.com/voruti/DisabledLauncher) - Android app that disables unused apps while still allowing convenient access to them `MIT`
