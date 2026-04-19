@@ -327,7 +327,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Vendor-specific / MIUI
 
-*   [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) - 5G shortcut switch for HyperOS/MIUI `GPL-3.0` - [(Source code)](https://github.com/ysy950803/FiveGSwitcher)
+*   [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) - 5G shortcut switch for HyperOS/MIUI `GPL-3.0` [(Source code)](https://github.com/ysy950803/FiveGSwitcher)
 *   [FpsSwitcher](https://play.google.com/store/apps/details?id=com.ysy.fpsswitcher) `Paid` 💰 - Refresh rate shortcut switch for HyperOS/MIUI `Proprietary`
 
 ## Oct 03, 2025
