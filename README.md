@@ -44,7 +44,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Miscellaneous
 
 *   [AppBooster](https://github.com/androidexpert35/AppBooster) - GUI for Android's builtin `dex2oat` utility, allowing DEX code of installed apps to be re-optimized `Apache-2.0`
-*   [HiddenAlarmRevealer](https://github.com/AhmetCanArslan/HiddenAlarmRevealer) - Find the reason why the alarm icon is active in the status bar `Properietary`
+*   [HiddenAlarmRevealer](https://github.com/AhmetCanArslan/HiddenAlarmRevealer) - Find the reason why the alarm icon is active in the status bar `Proprietary`
 *   [PoC-Deployer-System](https://github.com/wqry085/PoC-Deployer-System) - Exploits CVE-2024-31317 for Zygote injection, integrating remote terminal and file transfer capabilities `MIT`
 
 ### Network
@@ -83,7 +83,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Input methods
 
-*   [andRemote2](https://github.com/c0dev0id/andRemote2) - Emulates the DMD Remote 2 for map apps `Properietary`
+*   [andRemote2](https://github.com/c0dev0id/andRemote2) - Emulates the DMD Remote 2 for map apps `Proprietary`
 
 ### Installer & app stores
 
