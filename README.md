@@ -38,6 +38,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [ReAppzuku](https://github.com/gree1d/ReAppzuku) - Control and manage background applications. Fork of shappky `GPL-3.0`
 
+### Vendor-specific / MIUI
+
+*   [mtbtool-android-app](https://github.com/h3nnes/mtbtool-android-app) - Perform bandlock and edit EFS NV items on qualcomm-based Xiaomi devices without root  `MIT`
+
 ## Apr 19, 2026
 
 ### Software management
