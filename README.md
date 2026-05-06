@@ -34,6 +34,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [DataSimTile](https://github.com/Mygod/DataSimTile) - Tile to switch the default mobile data SIM `Apache-2.0`
 
+### Task manager
+
+*   [ReAppzuku](https://github.com/gree1d/ReAppzuku) - Control and manage background applications. Fork of shappky `GPL-3.0`
+
 ## Apr 19, 2026
 
 ### Software management
