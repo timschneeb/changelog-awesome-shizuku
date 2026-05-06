@@ -41,7 +41,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Terminals
 
 *   [aShell](https://gitlab.com/sunilpaulmathew/ashell) - A local ADB shell for Shizuku-powered Android devices `GPL-3.0`
-    *   [aShell You](https://github.com/DP-Hridayan/aShellYou) - Material You Redesign of aShell app. `GPL-3.0` [(Source code)](https://github.com/GlassOnTin/Haven)
+    *   [aShell You](https://github.com/DP-Hridayan/aShellYou) - Material You Redesign of aShell app. `GPL-3.0`
 
 ## Apr 19, 2026
 
@@ -103,7 +103,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Terminals
 
-*   [Haven](https://f-droid.org/packages/sh.haven.app/) - Terminal, SSH, VNC, RDP, SFTP & cloud storage client for Android `AGPL-3.0`
+*   [Haven](https://f-droid.org/packages/sh.haven.app/) - Terminal, SSH, VNC, RDP, SFTP & cloud storage client for Android `AGPL-3.0` [(Source code)](https://github.com/GlassOnTin/Haven)
 
 ### Vendor-specific / Samsung OneUI
 
