@@ -38,11 +38,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [ReAppzuku](https://github.com/gree1d/ReAppzuku) - Control and manage background applications. Fork of shappky `GPL-3.0`
 
-### Terminals
-
-*   [aShell](https://gitlab.com/sunilpaulmathew/ashell) - A local ADB shell for Shizuku-powered Android devices `GPL-3.0`
-    *   [aShell You](https://github.com/DP-Hridayan/aShellYou) - Material You Redesign of aShell app. `GPL-3.0`
-
 ## Apr 19, 2026
 
 ### Software management
