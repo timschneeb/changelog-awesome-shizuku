@@ -61,7 +61,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Audio
 
 *   [MicUp](https://github.com/papergray/MicUp) ✨ - Real-time microphone audio processing for Android `MIT`
-*   [PrecisEQ](https://play.google.com/store/apps/details?id=com.yokodev.preciseqpro) `IAP` `15-minute trial` 💰 - Use spatial audio, headphone calibration, PEQ and convolver system-wide. `Proprietary`
 
 ### Customization
 
@@ -138,12 +137,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [TitanPad](https://github.com/sztupy/TitanPad) - Converts the Titan2's Physical Keyboard's capacitive input into mouse and scroll gestures. Uses Shizuku for reading the trackpad input and setting up virtual HID devices `Apache-2.0`
 
-## Feb 10, 2026
-
-### Automation
-
-*   [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) `Paid` 💰 - Automation app for Android devices. Version 6.6 and later introduce Shizuku support. `Proprietary`
-
 ## Feb 06, 2026
 
 ### Miscellaneous content / Command-line utilities
@@ -202,7 +195,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Power management
 
 *   [battery-stats-changer](https://github.com/superisuer/battery-stats-changer) - Open source app to visually change battery data via Shizuku `GPL-3.0`
-*   [FDE.AI](https://github.com/feravolt/FDE.AI-docs/releases) `IAP` 💰 - All-in-One optimizer for Android `Proprietary`
 
 ## Dec 23, 2025
 
@@ -289,10 +281,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [DroidOS](https://github.com/Katsuyamaki/DroidOS) ✨ - Tiling window manager, Samsung DEX replacement, popup app launcher `Proprietary`
 
-### File management
-
-*   [File Manager Plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager)  `Ads` `IAP` 💰 - Can manage your files and folders, whether on local device, NAS storage (via sftp, ftp, webdav or smb) or in the cloud (e.g. Google Drive). Supports Shizuku for Android/data, Android/obb and partly /. `Proprietary`
-
 ### Patching
 
 *   [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - ReVanced patcher that has extra features the official manager doesn't have  `GPL-3.0`
@@ -332,7 +320,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Network
 
 *   [de1984](https://github.com/dorumrr/de1984) - App firewall without using an VPN; can also manage packages `MIT`
-*   [NetWall](https://play.google.com/store/apps/details?id=com.ysy.app.firewall) `IAP` 💰 - Another app firewall that doesn't depend on a local VPN or root `Proprietary`
 *   [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) ✨ - Open-source app firewall that doesn't depend on VPNs or root `GPL-3.0`
 
 ## Oct 19, 2025
@@ -363,25 +350,16 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Vendor-specific / MIUI
 
 *   [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) - 5G shortcut switch for HyperOS/MIUI `GPL-3.0` [(Source code)](https://github.com/ysy950803/FiveGSwitcher)
-*   [FpsSwitcher](https://play.google.com/store/apps/details?id=com.ysy.fpsswitcher) `Paid` 💰 - Refresh rate shortcut switch for HyperOS/MIUI `Proprietary`
 
 ## Oct 03, 2025
 
 ### Customization
 
-*   [SetEdit: Settings Editor](https://play.google.com/store/apps/details?id=com.netvor.settings.database.editor) - View and edit settings from the system, global, and secure tables `Proprietary`
 *   [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains some easy-to-use tools to go beyond the level of control allowed by Android System `GPL-3.0`
 
 ### Software management
 
 *   [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) - Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta)
-
-## Sep 22, 2025
-
-### Quick settings
-
-*   [Ultimate Settings](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.free.release) `Ads` - Direct toggling of wifi, bluetooth, mobile internet, flight mode, gps, nfc, wifi/bluetooth/usb tethering hotspot, screen brightness, screen autorotate, LED light, ringer mode, from Widget/App/Notification/Lock screen notification `Proprietary`
-*   [Ultimate Settings PRO](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.pro.release) `Paid` 💰 - Direct toggling of wifi, bluetooth, mobile internet, flight mode, gps, nfc, wifi/bluetooth/usb tethering hotspot, screen brightness, screen autorotate, LED light, ringer mode, from Widget/App/Notification/Lock screen notification `Proprietary`
 
 ## Sep 11, 2025
 
@@ -392,12 +370,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Productivity
 
 *   [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Digital Detoxing: Use your phone rather than letting your phone use you `GPL-3.0`
-
-## Sep 08, 2025
-
-### Vendor-specific / Samsung OneUI
-
-*   [Galaxy MaxHz](https://github.com/tribalfs/GalaxyMaxHzPub) `IAP` 💰 - Refresh Rate Mods, Screen-off Mods, QS Tiles, Tasker Support and More  `Proprietary`
 
 ## Aug 31, 2025
 
@@ -458,10 +430,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### File management
 
 *   [SDMaid-SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) `IAP` 💰 - SD Maid 2/SE is Android's most thorough cleaning tool `GPL-3.0` [(Source code)](https://github.com/d4rken-org/sdmaid-se)
-
-### Vendor-specific / Samsung OneUI
-
-*   [Hex Installer: OneUI themes](https://play.google.com/store/apps/details?id=project.vivid.hex.bodhi) `IAP` 💰 - Custom system-wide theming engine for Samsung OneUI devices `Proprietary`
 
 ### Development libraries / Core
 
