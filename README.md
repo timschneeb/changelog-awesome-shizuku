@@ -4,6 +4,36 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## May 06, 2026
+
+### Audio
+
+*   [wecho](https://github.com/qumolangmo/wecho) - An Android application for global audio effects processing `MIT`
+
+### Customization
+
+*   [Smart Edge](https://f-droid.org/en/packages/com.imi.smartedge.sidebar.panel/) - A highly customizable Android side panel inspired by OriginOS `MIT` [(Source code)](https://github.com/Imtiaz-Official/Smart-Edge)
+
+### Development utilities
+
+*   [FrameX-Android](https://github.com/MaheshSharan/FrameX-Android) - Real-time performance overlay for Android `MIT`
+
+### Display management
+
+*   [android-display-extend](https://github.com/jqssun/android-display-extend) ✨ - Display manager for physical and virtual displays with a built-in virtual touchscreen. Great for use with `scrcpy --new-display` on a PC `GPL-3.0`
+
+### Installer & app stores
+
+*   [universal-installer](https://github.com/pass-with-high-score/universal-installer) - Install and manage APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning `GPL-3.0`
+
+### Power management
+
+*   [sleep-timer](https://github.com/Xitee1/sleep-timer) - Sleep timer that can pause media, and turn off WIFI/Bluetooth/Display `GPL-3.0`
+
+### Quick settings
+
+*   [DataSimTile](https://github.com/Mygod/DataSimTile) - Tile to switch the default mobile data SIM `Apache-2.0`
+
 ## Apr 19, 2026
 
 ### Software management
