@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## May 14, 2026
+
+### Network
+
+*   [sing-box](https://f-droid.org/packages/io.nekohasekai.sfa/) - Universal proxy platform. Uses Shizuku for per-app proxying `GPL-3.0` [(Source code)](https://github.com/SagerNet/sing-box)
+
 ## May 06, 2026
 
 ### Audio
