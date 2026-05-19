@@ -10,6 +10,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) - ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device! `GPL-3.0`
 
+## May 16, 2026
+
+### Productivity
+
+*   [Blink](https://github.com/character-flat/Blink) - A persistent, highly customizable 20-20-20 rule eye-care timer that uses Shizuku to whitelist itself from Android's battery optimizations `GPL-3.0`
+
 ## May 14, 2026
 
 ### Network
