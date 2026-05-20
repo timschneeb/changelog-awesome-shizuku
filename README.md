@@ -8,7 +8,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Communication
 
-*   [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) - ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device! `GPL-3.0`
+*   [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) ✨ - ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device! `GPL-3.0`
 
 ## May 16, 2026
 
