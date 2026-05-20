@@ -468,16 +468,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [Kettu](https://github.com/C0C0B01/Kettu) - Discord modding tool. Continuation of the abandoned Bunny-Manager project `BSD-3-Clause`
 *   [revenge-manager](https://github.com/revenge-mod/revenge-manager) - Discord modding tool. Another continuation of the abandoned Bunny-Manager project `OSL-3.0`
 
-## May 20, 2025
-
-### Games
-
-*   [CloudSync-Mobile](https://github.com/FawazTakahji/CloudSync-Mobile) - An app that allows you to sync your Stardew Valley saves across multiple devices `GPL-3.0`
-
-### Terminals
-
-*   [ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) ✨ - Sleek, Material 3-inspired terminal emulator based on Termux's robust TerminalView `MIT`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
