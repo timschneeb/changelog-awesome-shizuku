@@ -461,13 +461,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Ackpine](https://github.com/solrudev/Ackpine) - Android Coroutines-friendly Kotlin-first Package Installer extensions with Shizuku support `Apache-2.0`
 
-## Jun 01, 2025
-
-### Communication
-
-*   [Kettu](https://github.com/C0C0B01/Kettu) - Discord modding tool. Continuation of the abandoned Bunny-Manager project `BSD-3-Clause`
-*   [revenge-manager](https://github.com/revenge-mod/revenge-manager) - Discord modding tool. Another continuation of the abandoned Bunny-Manager project `OSL-3.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
