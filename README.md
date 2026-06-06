@@ -455,12 +455,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - Developer documentation for Shizuku and Sui, including examples `Apache-2.0`
 
-## Jun 06, 2025
-
-### Development libraries / Filesystem
-
-*   [Ackpine](https://github.com/solrudev/Ackpine) - Android Coroutines-friendly Kotlin-first Package Installer extensions with Shizuku support `Apache-2.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
