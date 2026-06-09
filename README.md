@@ -4,6 +4,16 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Jun 09, 2026
+
+### Android TV
+
+*   [RecentAppsTV](https://github.com/Qutaiba-Khader/RecentAppsTV) - Recent Apps overlay for Android TV
+
+### Display management
+
+*   [android-display-mirror](https://github.com/jqssun/android-display-mirror) ✨ - Screen mirroring hub with support for sharing screen content over AirPlay, Moonlight/Sunshine, and DisplayLink `GPL-3.0`
+
 ## May 18, 2026
 
 ### Communication
