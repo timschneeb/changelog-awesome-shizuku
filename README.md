@@ -8,7 +8,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Android TV
 
-*   [RecentAppsTV](https://github.com/Qutaiba-Khader/RecentAppsTV) - Recent Apps overlay for Android TV
+*   [RecentAppsTV](https://github.com/Qutaiba-Khader/RecentAppsTV) - Recent Apps overlay for Android TV `Propietary`
 
 ### Display management
 
