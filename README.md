@@ -14,6 +14,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [android-display-mirror](https://github.com/jqssun/android-display-mirror) ✨ - Screen mirroring hub with support for sharing screen content over AirPlay, Moonlight/Sunshine, and DisplayLink `GPL-3.0`
 
+## May 28, 2026
+
+### AI agents
+
+*   [Mythara](https://github.com/ankurCES/project_mythara) - Open-source local-first agentic AI OS layer for Android. Runs 65+ on-device tools (calls, SMS, calendar, Termux, face recognition); uses Shizuku for cosmetic system tweaks (font scale, dark mode, accent) without root `MIT`
+
 ## May 18, 2026
 
 ### Communication
