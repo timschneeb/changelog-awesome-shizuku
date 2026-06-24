@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Jun 24, 2026
+
+### Productivity
+
+*   [Curbox](https://f-droid.org/packages/neth.iecal.curbox/) ✨ - Tool to reduce screen addiction and view usage analytics `GPL-3.0` [(Source code)](https://github.com/nethical6/curbox)
+
 ## Jun 09, 2026
 
 ### Android TV
