@@ -473,16 +473,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Thor](https://play.google.com/store/apps/details?id=com.valhalla.thor) - App manager with freeze and install capabilities. `GPL-3.0`  [(Source code)](https://github.com/trinadhthatakula/Thor)
 
-## Jul 08, 2025
-
-### File management
-
-*   [SDMaid-SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) `IAP` 💰 - SD Maid 2/SE is Android's most thorough cleaning tool `GPL-3.0` [(Source code)](https://github.com/d4rken-org/sdmaid-se)
-
-### Development libraries / Core
-
-*   [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - Developer documentation for Shizuku and Sui, including examples `Apache-2.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
