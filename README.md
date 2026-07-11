@@ -467,12 +467,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [WG Tunnel](https://github.com/wgtunnel/android) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. `MIT`
 
-## Jul 11, 2025
-
-### Software management
-
-*   [Thor](https://play.google.com/store/apps/details?id=com.valhalla.thor) - App manager with freeze and install capabilities. `GPL-3.0`  [(Source code)](https://github.com/trinadhthatakula/Thor)
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
