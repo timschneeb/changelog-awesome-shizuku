@@ -4,6 +4,42 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Jul 20, 2026
+
+### Customization
+
+*   [Smart Dock](https://f-droid.org/packages/com.axel358.smartdock/) - Transform your phone into a desktop environment with taskbar, recent apps, and start menu `GPL-3.0` [(Source code)](https://github.com/axel358/smartdock)
+
+### Development utilities
+
+*   [ActivityManager](https://github.com/sdex/ActivityManager) - Launch hidden and unexported activities directly without root `Apache-2.0`
+
+### File management
+
+*   [NFile](https://github.com/Senzme/NFile) - File manager with Android folder access using Shizuku `GPL-3.0`
+*   [ZenFile](https://github.com/l930203811/ZenFile) - NFile fork with built-in remote file server support `GPL-3.0`
+
+### Games
+
+*   [pogoplusle](https://github.com/Mygod/pogoplusle) - Skip the pairing dialog when connecting a Pokémon GO Plus `Apache-2.0`
+
+### Network
+
+*   [Dolphy-App](https://github.com/unvoiddd/Dolphy-App) - NFC, BLE, and IR multi-tool for wireless protocol research `GPL-3.0`
+
+### Power management
+
+*   [Battery-Monitor](https://github.com/tswistak/Battery-Monitor) - Track and log battery capacity and parameters over time using Shizuku `GPL-3.0`
+
+### Vendor-specific / Google Pixel
+
+*   [Pixel-IMS-5G](https://github.com/barrylk/Pixel-IMS-5G) - Enable 5G standalone (5G SA) and VoNR on Google Pixel devices `GPL-3.0`
+
+### Vendor-specific / Other
+
+*   [ClusterTune](https://github.com/AurelioB/ClusterTune) - Tune CPU cluster frequencies to balance performance and power on AYN handheld devices `GPL-2.0`
+*   [ThorVolumeLink](https://github.com/pth2000/ThorVolumeLink) - Synchronized volume control for the dual displays of the AYN Thor `MIT`
+
 ## Jun 28, 2026
 
 ### AI agents
