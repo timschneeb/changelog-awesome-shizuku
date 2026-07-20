@@ -35,6 +35,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Battery-Monitor](https://github.com/tswistak/Battery-Monitor) - Track and log battery capacity and parameters over time using Shizuku `GPL-3.0`
 
+### Task manager
+
+*   [memhogs](https://github.com/cicerothoma/memhogs-android) - Which apps are eating your phone's memory. Per-app breakdown via Shizuku, helpers grouped under the app that owns them `MIT`
+
 ### Vendor-specific / Google Pixel
 
 *   [Pixel-IMS-5G](https://github.com/barrylk/Pixel-IMS-5G) - Enable 5G standalone (5G SA) and VoNR on Google Pixel devices `GPL-3.0`
