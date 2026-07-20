@@ -14,6 +14,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [ActivityManager](https://github.com/sdex/ActivityManager) - Launch hidden and unexported activities directly without root `Apache-2.0`
 
+### Display management
+
+*   [Adaptive-Hz](https://github.com/mahmutaunal/Adaptive-Hz) - Automatically switches display refresh rate between 60Hz and 120Hz based on user interaction. Designed for Samsung devices without true adaptive refresh `MIT`
+
 ### File management
 
 *   [NFile](https://github.com/Senzme/NFile) - File manager with Android folder access using Shizuku `GPL-3.0`
