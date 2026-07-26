@@ -4,6 +4,48 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Jul 26, 2026
+
+### Customization
+
+*   [LinkSheet](https://github.com/LinkSheet/LinkSheet) - Restore the Android <12 Url-App-Link-Chooser with Material3 `Modified MPL-2.0`
+*   [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that enables you to add additional (or "unsupported") languages to your device's locale settings, if the OEM (Xiaomi) doesn't let you `MIT`
+
+### Development utilities
+
+*   [get\_event](https://github.com/lalakii/get_event) - Read /dev/input/event\* `Proprietary`
+*   [LogFox](https://github.com/F0x1d/LogFox) ✨ - Yet another logcat reader for Android `GPL-3.0`
+
+### Entertainment
+
+*   [hlbmerge\_flutter](https://github.com/molihuan/hlbmerge_flutter) - Merge and export BiliBili cache files into MP4, supports mobile and computer client `Apache-2.0`
+
+### Input methods
+
+*   [XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android x86 `GPL-3.0`
+
+### Installer & app stores
+
+*   [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options `MIT`
+
+### Network
+
+*   [wifi-password-manager](https://github.com/Khh-vu/wifi-password-manager) - Simple app using Shizuku to manage & view saved Wi-Fi passwords `MIT`
+
+### Patching
+
+*   [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - ReVanced patcher that has extra features the official manager doesn't have `GPL-3.0`
+
+### Quick settings
+
+*   [DNS Toggle](https://f-droid.org/packages/com.ericlowry.dnstoggle/) - Quick Settings tile for Private DNS toggling and configuration, with optional advanced automation. `MIT` [(Source code)](https://github.com/ELowry/DNSToggle)
+*   [Private DNS Quick Setting](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) - QS tile for toggling the private DNS setting on or off `GPL-3.0` [(Source code)](https://github.com/flashsphere/private-dns-qs)
+*   [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - Quick settings tile to switch active private DNS server `MIT`
+
+### Software management
+
+*   [Thor](https://play.google.com/store/apps/details?id=com.valhalla.thor) - App manager with freeze and install capabilities. `GPL-3.0` [(Source code)](https://github.com/trinadhthatakula/Thor)
+
 ## Jul 20, 2026
 
 ### Customization
@@ -300,10 +342,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [OwnDroid](https://github.com/BinTianqi/OwnDroid) - Manage your device with Device owner privileges `GPL-3.0`
     *   [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid with added features `GPL-3.0`
 
-### Entertainment
-
-*   [hlbmerge\_flutter](https://github.com/molihuan/hlbmerge_flutter) - Merge and export BiliBili cache files into MP4, supports mobile and computer client  `Apache-2.0`
-
 ### Games
 
 *   [ShinGen](https://github.com/Shio2077/ShinGen#genshin-impact-auto-conversation-clicker-on-android) - Genshin Impact Auto-Conversation Clicker `MIT`
@@ -348,12 +386,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Running Services Monitor](https://play.google.com/store/apps/details?id=me.biplobsd.rsm) - Monitor running services on your Android device `MIT` [(Source code)](https://github.com/biplobsd/running_services_monitor)
 
-## Dec 11, 2025
-
-### Network
-
-*   [wifi-password-manager](https://github.com/Khh-vu/wifi-password-manager) - Simple app using Shizuku to manage & view saved Wi-Fi passwords  `MIT`
-
 ## Dec 09, 2025
 
 ### AI agents
@@ -369,10 +401,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Customization
 
 *   [DroidOS](https://github.com/Katsuyamaki/DroidOS) ✨ - Tiling window manager, Samsung DEX replacement, popup app launcher `Proprietary`
-
-### Patching
-
-*   [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - ReVanced patcher that has extra features the official manager doesn't have  `GPL-3.0`
 
 ### Task manager
 
@@ -474,10 +502,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Games
 
 *   [stalker](https://github.com/onerdna/stalker) - Save data viewer & editor for Shadow Fight 2 `GPL-3.0`
-
-### Quick settings
-
-*   [Private DNS Quick Setting](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) - QS tile for toggling the private DNS setting on or off  `GPL-3.0` [(Source code)](https://github.com/flashsphere/private-dns-qs)
 
 ## Aug 07, 2025
 
