@@ -529,12 +529,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Always On Display](https://f-droid.org/packages/org.alberto97.aodtoggle/) - Toggle Always on Display from the quick settings panel `MIT` [(Source code)](https://github.com/Alberto97/AlwaysOnDisplayToggle)
 
-## Jul 30, 2025
-
-### Network
-
-*   [WG Tunnel](https://github.com/wgtunnel/android) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. `MIT`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
