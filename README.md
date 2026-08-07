@@ -522,32 +522,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [stalker](https://github.com/onerdna/stalker) - Save data viewer & editor for Shadow Fight 2 `GPL-3.0`
 
-## Aug 07, 2025
-
-### Automation
-
-*   [Geto](https://github.com/JackEblan/Geto) - Automatically change device settings when a specific app is launched. `GPL-3.0`
-
-### Installer & app stores
-
-*   [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) - A lightweight app installer replacement with split APK support `Apache-2.0`
-
-### Power management
-
-*   [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) - Advanced reboot menu with Shizuku support `Apache-2.0`
-
-### Privacy
-
-*   [AppLock](https://github.com/aload0/AppLock) ✨ - Lock sensitive apps with a PIN and optionally biometrics `MIT`
-
-### Quick settings
-
-*   [Quick-Tile Settings](https://f-droid.org/packages/com.rbn.qtsettings/) - QS tiles for toggling USB debugging and switching private DNS hosts `GPL-3.0` [(Source code)](https://github.com/RBN-Apps/Quick-Tile-Settings)
-
-### Vendor-specific / Google Pixel
-
-*   [Always On Display](https://f-droid.org/packages/org.alberto97.aodtoggle/) - Toggle Always on Display from the quick settings panel `MIT` [(Source code)](https://github.com/Alberto97/AlwaysOnDisplayToggle)
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
