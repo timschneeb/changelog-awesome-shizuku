@@ -4,6 +4,25 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Aug 07, 2026
+
+### Customization
+
+*   [Smart Island](https://github.com/agupta07505/SmartIsland) - A lightweight Android overlay that turns notifications, calls, and media playback into a floating glanceable island `GPL-3.0`
+
+### Network
+
+*   [NetToggle](https://github.com/Dhangofa/NetToggle) - A lightweight Android Quick Settings tile to force 5G Only, 4G Only and preferred network modes using Root or Shizuku `GPL-3.0`
+
+### Power management
+
+*   [Amply](https://github.com/d4rken-org/amply) - Easy control of charging limits. Temporarily allows one full charge, then automatically restores your protective charge limit `GPL-3.0`
+
+### Vendor-specific / Samsung OneUI
+
+*   [Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) - KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 `Apache-2.0`
+*   [ScamsungFonts](https://github.com/KhunHtetzNaing/ScamsungFonts) - Font manager for Samsung Galaxy (OneUI) via System shell or Root `No license`
+
 ## Jul 26, 2026
 
 ### Customization
