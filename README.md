@@ -516,12 +516,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - Android app for 4G/5G network mode switching `GPL-3.0`
 
-## Aug 16, 2025
-
-### Games
-
-*   [stalker](https://github.com/onerdna/stalker) - Save data viewer & editor for Shadow Fight 2 `GPL-3.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
