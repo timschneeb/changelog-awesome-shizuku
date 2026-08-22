@@ -17,13 +17,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Customization
 
-*   [AutoDND](https://f-droid.org/packages/moe.dic1911.autodnd/) - A simple tool to toggle DND automatically when using specified apps `AGPL-3.0` [(Source code)](https://github.com/im030/android_AutoDND)
 *   [DarQ-Reborn](https://github.com/Arora-Sir/DarQ-Reborn) - Per-app selectable force dark option for Android 10 and above `Apache-2.0`
-*   [Smart Dock](https://f-droid.org/packages/cu.axel.smartdock/) - Transform your phone into a desktop environment with taskbar, recent apps, and start menu `GPL-3.0` [(Source code)](https://github.com/axel358/smartdock)
-
-### Development utilities
-
-*   [Cosmic-IDE](https://github.com/aload0/Cosmic-IDE) - IDE for JVM development. Uses Shizuku for an embedded shell `GPL-3.0`
 
 ### Device owner (DPM)
 
@@ -39,12 +33,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Games
 
-*   [CloudSync-Mobile](https://github.com/StardewValleyMods/CloudSync-Mobile) - An app that allows you to sync your Stardew Valley saves across multiple devices `GPL-3.0`
 *   [umamusume-localify-android](https://github.com/Kimjio/umamusume-localify-android) - Localization module for Umamusume via Zygisk with Shizuku integration `MIT`
 
 ### Installer & app stores
 
-*   [GitHub-Store](https://f-droid.org/packages/zed.rainxch.githubstore/) - App store for GitHub releases with discovery function `Apache-2.0` [(Source code)](https://github.com/kurikomi-labs/komi-store)
 *   [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source `GPL-3.0`
     *   [ObtainX](https://f-droid.org/packages/dev.bikram.obtainx/) - Obtainium fork with Material 3 UI redesign `GPL-3.0` [(Source code)](https://github.com/bikram-agarwal/ObtainX)
 *   [ShizuCoreFetch](https://github.com/elhizazi1/ShizuCoreFetch) - Shizuku-powered app manager with silent installs, updates, and batch operations `GPL-3.0`
@@ -53,21 +45,9 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Shizzi](https://github.com/carlelieser/shizzi) - Rootless Wi-Fi tethering bypass via Shizuku `Proprietary`
 
-### Power management
-
-*   [EnforceDoze](https://f-droid.org/packages/com.akylas.enforcedoze/) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life `GPL-3.0` [(Source code)](https://github.com/Akylas/EnforceDoze)
-
-### Productivity
-
-*   [Curbox](https://f-droid.org/packages/neth.iecal.curbox/) ✨ - Tool to reduce screen addiction and view usage analytics `GPL-3.0` [(Source code)](https://github.com/curbox-app/curbox-android)
-
 ### Task manager
 
 *   [KillMyApps](https://github.com/dedeadend/KillMyApps) - Background process killer to improve battery life and performance via Shizuku or root `GPL-3.0`
-
-### Terminals
-
-*   [Haven](https://f-droid.org/packages/sh.haven.app/) - Terminal, SSH, VNC, RDP, SFTP & cloud storage client for Android `AGPL-3.0` [(Source code)](https://github.com/GlassHaven/Haven)
 
 ### Vendor-specific / Google Pixel
 
@@ -137,6 +117,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## Jul 20, 2026
 
+### Customization
+
+*   [Smart Dock](https://f-droid.org/packages/cu.axel.smartdock/) - Transform your phone into a desktop environment with taskbar, recent apps, and start menu `GPL-3.0` [(Source code)](https://github.com/axel358/smartdock)
+
 ### Development utilities
 
 *   [ActivityManager](https://github.com/sdex/ActivityManager) - Launch hidden and unexported activities directly without root `Apache-2.0`
@@ -180,6 +164,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### AI agents
 
 *   [rish-mcp](https://github.com/turin-dev/rish-mcp) - Exposes an Android device's Shizuku shell to AIs as an MCP `run_shell` tool over an outbound WebSocket relay — run shell commands from Claude or any MCP client with no VPN, ADB, or sshd `MIT`
+
+## Jun 24, 2026
+
+### Productivity
+
+*   [Curbox](https://f-droid.org/packages/neth.iecal.curbox/) ✨ - Tool to reduce screen addiction and view usage analytics `GPL-3.0` [(Source code)](https://github.com/curbox-app/curbox-android)
 
 ## Jun 09, 2026
 
@@ -286,6 +276,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Installer & app stores
 
+*   [GitHub-Store](https://f-droid.org/packages/zed.rainxch.githubstore/) - App store for GitHub releases with discovery function `Apache-2.0` [(Source code)](https://github.com/kurikomi-labs/komi-store)
 *   [Orion Store](https://github.com/RookieEnough/Orion-Store) - App store for modded apps `GPL-3.0`
 
 ### Miscellaneous
@@ -309,6 +300,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Task manager
 
 *   [Pensum](https://github.com/troikoss/Pensum) ✨ - Windows-style Task Manager for Android `GPL-3.0`
+
+### Terminals
+
+*   [Haven](https://f-droid.org/packages/sh.haven.app/) - Terminal, SSH, VNC, RDP, SFTP & cloud storage client for Android `AGPL-3.0` [(Source code)](https://github.com/GlassHaven/Haven)
 
 ### Vendor-specific / Samsung OneUI
 
@@ -384,6 +379,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Games
 
 *   [Okkei Patcher](https://github.com/solrudev/OkkeiPatcher) - Companion app for localizing the Android version of CHAOS;CHILD visual novel `GPL-3.0`
+
+### Power management
+
+*   [EnforceDoze](https://f-droid.org/packages/com.akylas.enforcedoze/) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life `GPL-3.0` [(Source code)](https://github.com/Akylas/EnforceDoze)
 
 ## Jan 03, 2026
 
