@@ -4,6 +4,56 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Aug 22, 2026
+
+### AI agents
+
+*   [OmniBot](https://github.com/omnimind-ai/OmniBot) - On-device AI agent with terminal, web browsing, device control, and system integration `GPL-3.0`
+*   [OpenMinis](https://github.com/OpenMinis/OpenMinis) - AI-powered agent with Linux shell, browser automation, and system control via Shizuku `GPL-3.0`
+
+### Audio
+
+*   [Volume++](https://github.com/noel-digital-fan/volume_plus_plus) - Custom volume panel with per-app audio mixing via Shizuku or root `MIT`
+
+### Customization
+
+*   [DarQ-Reborn](https://github.com/Arora-Sir/DarQ-Reborn) - Per-app selectable force dark option for Android 10 and above `Apache-2.0`
+
+### Device owner (DPM)
+
+*   [harbor](https://f-droid.org/packages/com.monstera.harbor/) - Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)
+
+### Display management
+
+*   [Dextop](https://github.com/NarYuki/Dextop) - Desktop environment using Samsung DeX or Shizuku with multitasking and custom resolution `GPL-3.0`
+
+### File management
+
+*   [XFiles](https://github.com/Local1stDotApp/XFiles) - Offline file manager with root and Shizuku support for full filesystem access `GPL-3.0`
+
+### Games
+
+*   [umamusume-localify-android](https://github.com/Kimjio/umamusume-localify-android) - Localization module for Umamusume via Zygisk with Shizuku integration `MIT`
+
+### Installer & app stores
+
+*   [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source `GPL-3.0`
+    *   [ObtainX](https://f-droid.org/packages/dev.bikram.obtainx/) - Obtainium fork with Material 3 UI redesign `GPL-3.0` [(Source code)](https://github.com/bikram-agarwal/ObtainX)
+*   [ShizuCoreFetch](https://github.com/elhizazi1/ShizuCoreFetch) - Shizuku-powered app manager with silent installs, updates, and batch operations `GPL-3.0`
+
+### Network
+
+*   [Shizzi](https://github.com/carlelieser/shizzi) - Rootless Wi-Fi tethering bypass via Shizuku `Proprietary`
+
+### Task manager
+
+*   [KillMyApps](https://github.com/dedeadend/KillMyApps) - Background process killer to improve battery life and performance via Shizuku or root `GPL-3.0`
+
+### Vendor-specific / Google Pixel
+
+*   [hilight-studio](https://github.com/DhananjayBhosale/hilight-studio) - Pixel 11 HiLight LED controller for custom notification and status light effects `MIT`
+*   [Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel) - Root automation for Pixel devices via CVE-2026-43499 exploit `Proprietary`
+
 ## Aug 07, 2026
 
 ### Customization
