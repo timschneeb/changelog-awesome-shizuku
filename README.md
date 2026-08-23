@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Aug 23, 2026
+
+### Miscellaneous content / Command-line utilities
+
+*   [AndroSH](https://github.com/ahmed-alnassif/AndroSH) - No-Root Multi-Distro Linux on Android via Shizuku/ADB - Run Arch, Fedora, Alpine, Debian, Ubuntu, Kali, Void, Manjaro, OpenSUSE & Chimera with full system integration, proot isolation & Termux:X11 GUI `GPL-3.0`
+
 ## Aug 22, 2026
 
 ### AI agents
@@ -336,12 +342,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Input methods
 
 *   [TitanPad](https://github.com/sztupy/TitanPad) - Converts the Titan2's Physical Keyboard's capacitive input into mouse and scroll gestures. Uses Shizuku for reading the trackpad input and setting up virtual HID devices `Apache-2.0`
-
-## Feb 06, 2026
-
-### Miscellaneous content / Command-line utilities
-
-*   [AndroSH](https://github.com/ahmed-alnassif/AndroSH) - Professional Multi-Distribution Linux Environments for Android. Run Archlinux, Fedora, Alpine, Debian, Ubuntu, Kali, Void, Manjaro & Chimera with full Android system integration `GPL-3.0`
 
 ## Feb 04, 2026
 
