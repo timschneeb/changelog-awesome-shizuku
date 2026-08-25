@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Aug 25, 2026
+
+### File management
+
+*   [XArchiver](https://github.com/Xtra-Manager-Software/XArchiver) - File manager with built-in archive support `MIT`
+
 ## Aug 23, 2026
 
 ### Miscellaneous content / Command-line utilities
