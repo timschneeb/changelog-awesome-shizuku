@@ -566,12 +566,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Digital Detoxing: Use your phone rather than letting your phone use you `GPL-3.0`
 
-## Aug 31, 2025
-
-### Network
-
-*   [NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch) - Android app for 4G/5G network mode switching `GPL-3.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
