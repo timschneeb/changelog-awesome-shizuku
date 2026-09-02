@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Sep 01, 2026
+
+### Vendor-specific / Google Pixel
+
+*   [Video Boost AO](https://github.com/AgusRomeroL/video-boost-ao) - Keeps Video Boost enabled on Pixel Pro cameras, re-enabling it every time the camera opens. Shizuku grants WRITE\_SECURE\_SETTINGS for the on-demand mode `MIT`
+
 ## Aug 25, 2026
 
 ### File management
