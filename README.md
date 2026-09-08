@@ -17,6 +17,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Automation
 
+*   [IMD](https://github.com/soul-99/SU_IMD) - Fork of Geto that hides developer options, ADB, accessibility services and Shizuku itself for restrictive apps like banking, then restores them `GPL-3.0`
 *   [vFlow](https://github.com/ChaoMixian/vFlow/blob/master/README_EN.md) - Visual automation tool that combines tapping, recognition, branching, and system actions into approachable workflows `GPL-2.0`
 
 ### Customization
@@ -50,6 +51,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Installer & app stores
 
+*   [AuroraDroid](https://f-droid.org/packages/com.aurora.adroid/) - FOSS F-Droid client with silent installs via Shizuku/root and automatic updates `GPL-3.0` [(Source code)](https://gitlab.com/AuroraOSS/auroradroid)
 *   [multistore](https://github.com/FedeFluork/multistore) - Aggregates third-party app stores into one catalogue to search, compare, download, and update APKs `GPL-3.0`
 
 ### Miscellaneous
