@@ -63,6 +63,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Software management
 
 *   [CloneCat](https://github.com/AhmetCanArslan/CloneCat) - Clone and manage apps across work profile, private space, dual apps, and secondary users with home screen shortcuts `Proprietary`
+*   [Dexor](https://github.com/DeveshTone/Dexor) - Ahead-of-time (AOT) bytecode compilation and dexopt runtime manager for Android applications `MIT`
 
 ### Vendor-specific / Samsung OneUI
 
