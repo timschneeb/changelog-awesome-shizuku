@@ -4,6 +4,122 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Sep 11, 2026
+
+### AI agents
+
+*   [ClawGUI](https://github.com/ZJU-REAL/ClawGUI) - On-device GUI-agent runner deploying the full ClawGUI brain stack on one phone controlled via Shizuku. `Apache-2.0`
+*   [roubao](https://github.com/Turbo1123/roubao/blob/main/README_EN.md) - Open-source on-device AI phone automation assistant based on vision-language models that performs tasks via Shizuku system permissions, no PC needed. `MIT` [(Source code)](https://github.com/Turbo1123/roubao)
+
+### Audio
+
+*   [Mixer (1)](https://github.com/farizanjum/mixer-1) - Per-app volume overlay intercepting hardware keys `Proprietary`
+*   [Spotify Ad Skipper](https://github.com/sihooney/spotify-ad-skipper) - Watches Spotify notifications and auto-skips ads by restarting playback, using Shizuku to relaunch from background. `Proprietary`
+
+### Automation
+
+*   [AutoSlide](https://github.com/tianxing-ovo/AutoSlide/blob/master/README.en.md) - Auto-slide tool that auto-plays short videos and flips reading pages, with floating controls `Apache-2.0` [(Source code)](https://github.com/tianxing-ovo/AutoSlide)
+*   [Service-Keeper](https://github.com/shaunkleyn/Service-Keeper) - Watches background, accessibility and notification-listener services and auto-restarts ones the system kills. `GPL-3.0`
+
+### Communication
+
+*   [CallVault](https://github.com/madkongo/CallVault) - Non-root call recorder with on-device transcripts/summaries; self-contained over embedded ADB or via an optional Shizuku backend. `GPL-3.0`
+*   [cally](https://github.com/LyoSU/cally) - Call recorder for stock Pixel 6+ devices that captures both call directions via a Shizuku shell-UID audio service, without root or unlocked bootloader. `GPL-3.0`
+*   [GhostMode](https://github.com/Foxlape/GhostMode) - Makes the phone appear unavailable for incoming calls while keeping LTE/5G data active `Apache-2.0`
+*   [KDE Connect (Shizuku)](https://github.com/libdu/kde-connect-shizuku) - KDE Connect build with Shizuku-powered automatic bidirectional clipboard sync between Android and PC. (Fork of KDE Connect with restored clipboard-send support via Shizuku.) `GPL-2.0`
+
+### Customization
+
+*   [SetEditPlus](https://github.com/kerneldroid/SetEditPlus) - Editor for Android System/Secure/Global settings tables with Shizuku/Root modes, change tracking and boot persistence. `Proprietary`
+
+### Development utilities
+
+*   [DEVTools](https://github.com/MetxStudio/DEVTools) - All-in-one Android dev toolkit: terminals, sensor monitor, app/file managers plus a Shizuku shell helper. `MIT`
+*   [ZeroStudio](https://github.com/msmt2018/ZeroStudio) - On-device IDE for building real Gradle-based Android apps, with Shizuku, ADB and root device links. `Proprietary`
+
+### Display management
+
+*   [Tideo Auto Brightness](https://github.com/faded-penguin021/Tideo-Auto-Brightness) - Glass-box adaptive-brightness replacement with explainable decisions and circadian support. `MIT`
+
+### File management
+
+*   [FileExplorer](https://github.com/SysAdminDoc/FileExplorer) - File manager for local, root, archives, network shares, cloud, vaults and storage analysis `MIT`
+*   [immich-cloud-media](https://github.com/Dreaming-Codes/immich-cloud-media) - Cloud media provider that surfaces a self-hosted Immich library in Android's system photo picker, configured via Shizuku or ADB. `GPL-3.0`
+*   [RippleFiles](https://github.com/GokulSB/RippleFiles-FileManager) - Expressive Material file manager with local and cloud storage plus Shizuku-gated Android/data access. `MIT`
+*   [ROSE](https://github.com/NarayanChetri/ROSE) - Modern file manager with Material 3 UI, archive support, recycle bin and Shizuku access to Android/data and Android/obb without root. `GPL-3.0`
+*   [sync-to-android-data](https://github.com/kamren-zirger/sync-to-android-data) - Syncs files in and out of restricted Android/data folders when target apps open or close `MIT`
+*   [twig](https://github.com/dev2ex/twig) - Size-first dual-pane file manager (\~7MB) for local, archives, FTP/SFTP/SMB/WebDAV/S3/restic/Jellyfin `GPL-3.0`
+*   [ZhuFiler](https://github.com/Artzhu86/ZhuFiler) - Open-source Material You file manager with archive, editor, media playback, APK handling and Shizuku-backed privileged access. `MIT`
+
+### Games
+
+*   [mt-en-applier](https://github.com/Aikiooo/mt-en-applier) - One-tap installer for the unofficial English patch of the Mushoku Tensei mobile game, copying files via Shizuku with no root or PC. `Proprietary`
+
+### Input methods
+
+*   [GameShift](https://github.com/tientien17/GameShift) - Auto-switches the default home launcher when a game controller connects and restores it on disconnect, using Shizuku without root. `Apache-2.0`
+*   [Joycon2Android](https://github.com/JoeGeC/joycon2android) - Connects Nintendo Switch 2 Joy-Con controllers over BLE and exposes them as system-wide virtual gamepads via a Shizuku UHID relay. `GPL-3.0`
+*   [OpenMapper](https://github.com/kinou-p/android-open-mapper) - Free open-source gamepad keymapper using Shizuku for touch injection with sub-millisecond latency; alternative to Mantis and Panda. `PolyForm-Noncommercial-1.0.0`
+*   [Steam Controller for Android](https://github.com/SonicDX12/SteamController-Android) - Uses the Steam Controller 2026 as a real Android gamepad via Shizuku-backed Linux uinput; USB, dongle or BLE. `MIT`
+
+### Network
+
+*   [Bluetooth Bouncer](https://github.com/harvzor/android-bluetooth-bouncer) - Per-device Bluetooth auto-connect control that stays paired; policy enforced via Shizuku user service. `GPL-3.0`
+*   [hikari-adblock](https://github.com/codegeasse1/hikari-adblock) - No-root ad/tracker/malware blocker with local VPN DNS filter plus Shizuku iptables/nftables firewall modes `GPL-3.0`
+*   [NetSwitcher](https://github.com/nd4y/netswitcher) - Fast Wi-Fi, mobile-data and Ethernet switching via app, shortcut, widget or QS tile using Shizuku or root. `Proprietary`
+*   [RKNHardering](https://github.com/xtclovver/RKNHardering) - Detects VPN/proxy circumvention tooling on-device using community-verified checks, with privileged probes via Shizuku or Root. `AGPL-3.0`
+*   [WiFi Portal](https://github.com/lovitus/wifiportal) - Applies captive-portal probe settings via Shizuku UserService with backup, verify-before-write and regional presets. `Proprietary`
+
+### Power management
+
+*   [USB PD Bypass](https://github.com/ONDER1E/usbpdbs) - Toggles USB PD battery-bypass mode at charge thresholds via Shizuku with self-healing recovery. `Proprietary`
+*   [volt](https://github.com/lebiggg/volt) - Greenify successor: scored app hibernation with UnifiedPush wake-on-push via Shizuku `GPL-3.0`
+*   [wakelogs](https://github.com/dernikiausd/wakelogs) - Analyzes display wakeups, CPU activity, alarms and device rest with Shizuku-based system diagnostics. `GPL-3.0`
+
+### Privacy
+
+*   [anubis](https://github.com/sogonov/anubis) - App manager that freezes/unfreezes app groups based on VPN state via Shizuku pm disable, so frozen apps cannot detect or bypass the VPN. `MIT`
+*   [Privacify](https://github.com/robinsrk/privacify) - Privacy control center: permission scanner, sensor-usage timeline and privacy score, with Root/Shizuku advanced hardware controls. `Apache-2.0`
+
+### Productivity
+
+*   [HyperCopy](https://github.com/1812z/HyperCopy) - Clipboard-to-app jump tool watching copied links and opening them directly in the right app via Shizuku or LSPosed monitoring. `Proprietary`
+*   [input-leaf](https://github.com/anasvhora284/input-leaf) - Android client for Input Leap/Deskflow: control your phone with your PC mouse and keyboard over LAN using Shizuku input injection, no root. `Apache-2.0`
+*   [Sefirah](https://github.com/shrimqy/Sefirah-Android) - Windows-Android integration for clipboard, notification, file, SMS and call sync; Shizuku enables clipboard on Android 10+. `GPL-3.0`
+
+### Quick settings
+
+*   [ManualRotate](https://github.com/Verisonder/ManualRotate) - Quick-settings tile switching portrait/landscape without rotating the phone; optional Shizuku override for apps that lock orientation. `GPL-3.0`
+
+### Software management
+
+*   [Guest-Manager](https://github.com/dlawoals2713/Guest-Manager) - Enables hidden Guest and multi-user modes on devices where the maker disabled them, via Shizuku shell without root. `Proprietary`
+*   [Minimal Kernel Manager](https://github.com/abhay-byte/mkm) - Kernel manager and system monitor with battery stats, apply-on-boot and hidden-app support via Shizuku or root. `GPL-3.0`
+
+### Task manager
+
+*   [RvSystem Monitor](https://github.com/Rve27/RvSystem-Monitor) - High-performance system monitor (Compose + Rust) with Shizuku-fed CPU and hardware insights `GPL-3.0`
+
+### Vendor-specific / Google Pixel
+
+*   [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - Maintained Pixel IMS toolkit: tune VoLTE/VoWiFi/VoNR, 5G display and carrier config via Shizuku `Apache-2.0`
+
+### Vendor-specific / Samsung OneUI
+
+*   [android-battery-health](https://github.com/willbilec/android-battery-health) - Samsung battery health and cycle-count viewer with screen-reader-friendly layout via Shizuku. `Proprietary`
+*   [pearity](https://github.com/thejaustin/pearity) - Matches Samsung One UI system settings to iOS defaults one toggle at a time (three-state Android/Custom/iOS), writing secure settings via Shizuku or root. `Proprietary`
+
+### Vendor-specific / MIUI
+
+*   [IslandRecorder](https://github.com/wxxsfxyzm/IslandRecorder) - Xiaomi-focused screen recorder with Super Island controls `GPL-3.0`
+
+### Vendor-specific / Other
+
+*   [Calibrate-SoC](https://github.com/mayusi/Calibrate-SoC) - SoC tuner, monitor and benchmark suite for Android gaming handhelds with goal-seeking governor and live HUD. `Apache-2.0`
+*   [flipx](https://github.com/jlgrimes/flipx) - Routes the home button to different launchers based on Anbernic RG Rotate hinge state `Proprietary`
+*   [Heimdall-AYN-Thor-Assistant](https://github.com/mastercook777/Heimdall-AYN-Thor-Assistant) - Lower-screen game assistant for the AYN Thor with profiles, macros, touch controls, maps and Shizuku-powered touch injection. `Apache-2.0`
+*   [thor-wayfinder](https://github.com/Thor-Wayfinder/thor-wayfinder) - Moves apps between the two AYN Thor screens with back-button gestures `CC-BY-NC-ND-4.0`
+
 ## Sep 08, 2026
 
 ### AI agents
