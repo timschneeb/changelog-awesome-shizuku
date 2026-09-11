@@ -755,16 +755,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) - Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta)
 
-## Sep 11, 2025
-
-### Installer & app stores
-
-*   [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ✨ - Modern and functional Android app installer replacement `GPL-3.0`
-
-### Productivity
-
-*   [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Digital Detoxing: Use your phone rather than letting your phone use you `GPL-3.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
