@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Sep 13, 2026
+
+### Development libraries / Core
+
+*   [Shizuku-API-Flutter-Plugin](https://github.com/runoob-coder/shizuku-api-flutter-plugin) - A Flutter plugin to interact with the Shizuku API. `MIT`
+
 ## Sep 12, 2026
 
 ### Vendor-specific / MIUI
