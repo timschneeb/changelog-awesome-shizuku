@@ -47,7 +47,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Development utilities
 
 *   [DEVTools](https://github.com/MetxStudio/DEVTools) - All-in-one Android dev toolkit: terminals, sensor monitor, app/file managers plus a Shizuku shell helper. `MIT`
-*   [ZeroStudio](https://github.com/msmt2018/ZeroStudio) - On-device IDE for building real Gradle-based Android apps, with Shizuku, ADB and root device links. `Proprietary`
 
 ### Display management
 
@@ -375,7 +374,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Vendor-specific / Other
 
-*   [ClusterTune](https://github.com/AurelioB/ClusterTune) - Tune CPU cluster frequencies to balance performance and power on AYN handheld devices `GPL-2.0`
 *   [ThorVolumeLink](https://github.com/pth2000/ThorVolumeLink) - Synchronized volume control for the dual displays of the AYN Thor `MIT`
 
 ## Jun 28, 2026
@@ -531,10 +529,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Games
 
 *   [BDroid\_X](https://github.com/Ark-Repoleved/BDroid_X) - Browndust II Mod manager `Proprietary`
-
-### Input methods
-
-*   [andRemote2](https://github.com/c0dev0id/andRemote2) - Emulates the DMD Remote 2 for map apps `Proprietary`
 
 ### Installer & app stores
 
