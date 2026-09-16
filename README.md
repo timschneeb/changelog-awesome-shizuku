@@ -4,6 +4,16 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Sep 16, 2026
+
+### Audio
+
+*   [wecho](https://github.com/qumolangmo/wecho) - An Android application for global audio effects processing `GPL-3.0`
+
+### Communication
+
+*   [KettuManager](https://github.com/C0C0B01/KettuManager) - Discord modding tool. Continuation of the abandoned BunnyManager project `OSL-3.0`
+
 ## Sep 13, 2026
 
 ### Development libraries / Core
@@ -418,10 +428,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## May 06, 2026
 
-### Audio
-
-*   [wecho](https://github.com/qumolangmo/wecho) - An Android application for global audio effects processing `MIT`
-
 ### Customization
 
 *   [Smart Edge](https://f-droid.org/en/packages/com.imi.smartedge.sidebar.panel/) - A highly customizable Android side panel inspired by OriginOS `MIT` [(Source code)](https://github.com/Imtiaz-Official/Smart-Edge)
@@ -449,10 +455,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Task manager
 
 *   [ReAppzuku](https://github.com/gree1d/ReAppzuku) - Control and manage background applications. Fork of shappky `GPL-3.0`
-
-### Vendor-specific / MIUI
-
-*   [mtbtool-android-app](https://github.com/h3nnes/mtbtool-android-app) - Perform bandlock and edit EFS NV items on qualcomm-based Xiaomi devices without root  `MIT`
 
 ## Apr 19, 2026
 
