@@ -348,6 +348,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [GlyphBarty](https://github.com/Link2011-Act2/GlyphBarty) - Customizable Glyph visualizer for Nothing Phone with music sync, Quick Settings toggle, and charging status display `MIT`
 
+## Sep 06, 2026
+
+### Quick settings
+
+*   [Shizako](https://github.com/xm1437/Shizako) - A catgirl-mascot edition of Shizuku, a drop-in replacement manager that official Shizuku-API apps (MT Manager, Hail, etc.) connect to without modification `Apache-2.0`
+
 ## Sep 01, 2026
 
 ### Vendor-specific / Google Pixel
