@@ -6,6 +6,15 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## Sep 18, 2026
 
+### AI agents
+
+*   [Aether](https://github.com/Zhou-Shilin/Aether) - Localized, extensible general-purpose AI agent for Android, iOS and macOS, with optional Shizuku and Termux integration for direct device control. `GPL-3.0`
+
+### Android Auto
+
+*   [Flywheel](https://github.com/Benjamin-Wiegand/Flywheel) - Free and open source alternative to Android Auto aimed at de-googled phones, compatible with existing headunits; Shizuku is used for app embedding and call-audio capture. `GPL-3.0`
+*   [Open Headunit](https://github.com/andreknieriem/open-headunit) - Turns an Android tablet or phone into an Android Auto headunit receiver; Shizuku or root unlocks steering-wheel keymaps. `AGPL-3.0`
+
 ### Android TV
 
 *   [flaunchermod](https://github.com/ctnkyaumt/flaunchermod) - Android TV launcher fork adding a button mapper that remaps remote buttons through Shizuku reading /dev/input. `GPL-3.0`
@@ -20,9 +29,11 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [flowpilot](https://github.com/emi-ran/flowpilot) - Privacy-first offline automation engine running privileged system actions such as mobile data, airplane mode and dark theme through Shizuku. `GPL-3.0`
 *   [NexaFlow](https://github.com/Alaa91H/NexaFlow) - Context-aware Android automation engine combining triggers, constraints and actions, with Shizuku execution for privileged device controls. `MIT`
 *   [Nothing\_Modes](https://github.com/Dvorinka/Nothing_Modes) - Automation app for Nothing phones (modes, routines, Glyph) that also runs on other Android devices with optional Shizuku `GPL-3.0`
+*   [OpenTasker](https://github.com/SysAdminDoc/OpenTasker) - Local-first, open-source Tasker alternative with readable rules and honest permission gates; privileged actions run through a Shizuku AIDL user service. `MIT`
 
 ### Communication
 
+*   [Bada](https://github.com/kyujin-cho/Bada) - Pure Android Quick Share/Nearby Share implementation without Google Play Services; uses Shizuku or ADB to toggle Wi-Fi Direct radios for transfers. `Proprietary`
 *   [KDE Connect (Shizuku)](https://github.com/Batestinha/kdeconnect-android-shizuku) - Unofficial KDE Connect fork adding automatic background clipboard sync on Android 10+ via Shizuku and AIDL callbacks. `GPL-2.0`
 *   [RivoPhoneApp](https://github.com/user-grinch/RivoPhoneApp) - Material 3 dialer and contacts app with Shizuku-powered call recording without root `GPL-3.0`
 
@@ -54,6 +65,8 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Input methods
 
 *   [8bitdo-xbox-bridge](https://github.com/BoredNewCoder/8bitdo-xbox-bridge) - Makes the 8BitDo Ultimate Wired Controller for Xbox work as a real system-wide gamepad on Android TV via the reverse-engineered GIP protocol and Shizuku uinput injection. `MIT`
+*   [BiBi Keyboard](https://github.com/BryceWG/BiBi-Keyboard/blob/main/README_EN.md) - AI-powered voice input method keyboard; Shizuku or root keeps its floating-ball and volume-key background service alive. `Apache-2.0`
+*   [ButtonSilencer](https://github.com/EithonX/ButtonSilencer) - Blocks faulty headset and IEM remote buttons without disabling the phone's own buttons; Shizuku provides the privileged path for screen-off headset input protection. `MIT`
 
 ### Installer & app stores
 
