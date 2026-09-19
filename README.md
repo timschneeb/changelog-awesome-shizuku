@@ -21,11 +21,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Android Auto
 
 *   [Flywheel](https://github.com/Benjamin-Wiegand/Flywheel) - Free and open source alternative to Android Auto aimed at de-googled phones, compatible with existing headunits; Shizuku is used for app embedding and call-audio capture. `GPL-3.0`
-*   [Open Headunit](https://github.com/andreknieriem/open-headunit) - Turns an Android tablet or phone into an Android Auto headunit receiver; Shizuku or root unlocks steering-wheel keymaps. `AGPL-3.0`
-
-### Android TV
-
-*   [flaunchermod](https://github.com/ctnkyaumt/flaunchermod) - Android TV launcher fork adding a button mapper that remaps remote buttons through Shizuku reading /dev/input. `GPL-3.0`
 
 ### Audio
 
@@ -41,7 +36,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Communication
 
-*   [Bada](https://github.com/kyujin-cho/Bada) - Pure Android Quick Share/Nearby Share implementation without Google Play Services; uses Shizuku or ADB to toggle Wi-Fi Direct radios for transfers. `Proprietary`
 *   [KDE Connect (Shizuku)](https://github.com/Batestinha/kdeconnect-android-shizuku) - Unofficial KDE Connect fork adding automatic background clipboard sync on Android 10+ via Shizuku and AIDL callbacks. `GPL-2.0`
 *   [RivoPhoneApp](https://github.com/user-grinch/RivoPhoneApp) - Material 3 dialer and contacts app with Shizuku-powered call recording without root `GPL-3.0`
 
