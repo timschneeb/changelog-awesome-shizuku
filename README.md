@@ -14,6 +14,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [NPatch](https://github.com/7723mod/NPatch) - Rootless LSPosed-based Xposed framework that injects the Xposed API into target APKs `GPL-3.0`
 
+### Power management
+
+*   [Battery Mode Checker](https://github.com/mrdarksidetm/Android-Battery-Unrestricted-Checker) - Audit, manage, and toggle Android battery optimization states (Unrestricted, Optimized, Restricted) with Shizuku `Apache-2.0`
+
 ### Software management
 
 *   [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - High-performance app manager powered by Shizuku `GPL-3.0`
