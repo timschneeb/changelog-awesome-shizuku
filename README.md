@@ -10,9 +10,80 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Porter](https://github.com/d4rken-org/porter) - Minimal, maintained Shizuku fork that gives apps ADB access with optional root, plus a compatibility companion for Shizuku-only apps `Apache-2.0`
 
+### AI agents
+
+*   [AndroidHarness](https://github.com/Sanuu7/AndroidHarness) - On-device coding agent that routes privileged commands through a Shizuku shell UID, with a Termux-prefixed Linux toolchain as fallback. `MIT`
+*   [Hermes Agent](https://github.com/adybag14-cyber/hermes-agent) - Hermes Agent port for Android with a Shizuku privileged shell bridge for on-device actions. `MIT`
+*   [Zafiro](https://github.com/niki914/zafiro) - Bring-your-own-key AI agent that reads the screen and controls the device through Shizuku, without root. `MIT`
+
+### Audio
+
+*   [allEQ](https://github.com/omixin/allEQ) - Rootless 10-band system equalizer that hooks the output mix audio session through Shizuku. `GPL-3.0`
+
+### Communication
+
+*   [ClipShare](https://clipshare.coclyun.top/) - Cross-platform clipboard sync for text, images, files and SMS; Shizuku keeps the Android clipboard listener running. `GPL-3.0` [(Source code)](https://github.com/aa2013/ClipShare/blob/master/README_EN.md)
+
+### Customization
+
+*   [Renoir](https://github.com/exaclast/renoir) - Material You theme designer that applies custom overlays through a Shizuku shell command. `Proprietary`
+*   [SuperShade](https://github.com/thejaustin/SuperShade) - Notification shade replacement that drives brightness, status bar expansion and power actions through Shizuku shell commands. `Proprietary`
+
+### Development utilities
+
+*   [ADB Captain](https://github.com/eatenlamp/adbcaptain) - ADB toolkit that runs shell commands, app management and log access through Shizuku, with no root required. `AGPL-3.0`
+*   [Android Code Studio](https://github.com/AndroidCSOfficial/android-code-studio) - On-device IDE for building Gradle-based Android projects; Shizuku enables silent installation of the built APK. `GPL-3.0`
+
+### Device owner (DPM)
+
+*   [Déchaîner](https://github.com/warleysr/dechainer) - Blocks adult content as Device Owner; Shizuku runs the dpm set-device-owner setup command. `Apache-2.0`
+
 ### File management
 
 *   [MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android `GPL-3.0`
+*   [UnscopeMyData](https://github.com/kepatotorica/UnscopeMyData) - Moves app data in and out of scoped storage folders using Shizuku for elevated file access. `GPL-3.0`
+*   [XClean](https://github.com/utopiafar/XClean) - Rule-based cleaner with Normal, Shizuku and Root engines for clearing app junk. `Proprietary`
+
+### Games
+
+*   [SwiftSense](https://github.com/itsmelissadev/SwiftSense) - Gaming tuner that uses Shizuku to freeze background apps, disable packages and raise sensor sampling rates. `GPL-3.0`
+
+### Installer & app stores
+
+*   [APKUpdater](https://github.com/DmitryN71/apkupdater) - APKUpdater fork adding Shizuku-based silent installs next to its APKMirror, Aptoide, F-Droid and IzzyOnDroid sources. `GPL-3.0`
+*   [Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Obtainium fork for discovering and installing apps from source, with Shizuku, Dhizuku and Sui install backends. `GPL-3.0`
+*   [LocalAndroidStore](https://github.com/SysAdminDoc/LocalAndroidStore) - Private app catalog that installs signed GitHub and F-Droid releases, optionally through a Shizuku-owned install session. `MIT`
+*   [Omnify](https://github.com/Victor-root/Omnify) - F-Droid client fork that also installs apps from external sources, with a Shizuku installer and a Works with Shizuku discovery row. `GPL-3.0`
+*   [OpenLoader](https://github.com/thebytearray/OpenLoader) - APK installer built for the Android developer verification era, using Shizuku for the privileged install path. `GPL-3.0`
+*   [Vyxel Apps](https://github.com/NikhilKain/vyxel-apps) `IAP` 💰 - GitHub-backed app store with signature verification and silent installs through Shizuku. `AGPL-3.0`
+
+### Miscellaneous
+
+*   [Rainy Screenshot](https://github.com/CATMIAOZHI/RainyScreenShot/blob/main/README_EN.md) - Silent screenshots and screen recording through a Shizuku or Porter privileged shell instead of MediaProjection. `Proprietary`
+*   [Screen Recorder](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder) - Screen recorder with internal audio capture routed through Shizuku. `MIT`
+*   [VineOS](https://github.com/Hexadecinull/VineOS) - Android VM engine; Shizuku probes shell privileges for the no-root ADB and wireless debugging path. `GPL-3.0`
+
+### Power management
+
+*   [Battery](https://github.com/zhyang18/Battery/blob/main/README_EN.md) - Battery health and hardware analysis; Shizuku provides the elevated shell for deep battery parameter reads. `MIT`
+*   [DozeTap](https://github.com/dhruvanbhalara/DozeTap) - Screen timeout presets that grant WRITE\_SECURE\_SETTINGS in one tap through Shizuku. `Apache-2.0`
+
+### Quick settings
+
+*   [Tooler](https://github.com/jehan593/tooler) - Quick Settings tiles for lock screen, private DNS, grayscale and charging, executed through Shizuku. `MIT`
+
+### Task manager
+
+*   [ProcessLens](https://github.com/Dreamucxe/ProcessLens) - Process observatory using Shizuku for ADB-level CPU, memory, thread, wake lock and per-app battery readings. `MIT`
+
+### Vendor-specific / Google Pixel
+
+*   [TensorIMS](https://github.com/Pixel-Tailor-CN/TensorIMS) - IMS configuration tool for Tensor Pixel devices; Shizuku applies VoLTE, VoWiFi, VT and VoNR toggles. `Apache-2.0`
+
+### Vendor-specific / Other
+
+*   [buttonoo](https://github.com/bractstudio/buttonoo) - Remaps the Nothing Essential Key to any press pattern; Shizuku enables the privileged input route. `GPL-3.0`
+*   [Thor SidePad](https://github.com/bentolanh/thor-sidepad) - Turns the AYN Thor bottom screen into a virtual gamepad; Shizuku injects its presses as native controller input. `MIT`
 
 ## Sep 20, 2026
 
