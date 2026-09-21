@@ -6,6 +6,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## Sep 21, 2026
 
+### Shizuku implementations
+
+*   [Porter](https://github.com/d4rken-org/porter) - Minimal, maintained Shizuku fork that gives apps ADB access with optional root, plus a compatibility companion for Shizuku-only apps `Apache-2.0`
+
 ### File management
 
 *   [MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android `GPL-3.0`
