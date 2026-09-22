@@ -4,6 +4,20 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Sep 22, 2026
+
+### Android TV
+
+*   [TVPilot](https://github.com/mahmutaunal/TVPilot) - Remote-first system control and app management for Android TV / Google TV, with optional Shizuku-powered advanced actions `Apache-2.0`
+
+### File management
+
+*   [KArchiver](https://github.com/sysrv64/KArchiver) - Android file manager built around archives: browse storage, open and edit ZIP/TAR/7Z in place, search inside files and archives, with an optional Shizuku or root engine for restricted paths `GPL-3.0`
+
+### Miscellaneous
+
+*   [KeiOS](https://github.com/hosizoraru/KeiOS) - System utility console with a local MCP server, GitHub release tracking, privileged installs via Shizuku or root, and Blue Archive helper tools `Apache-2.0`
+
 ## Sep 21, 2026
 
 ### Shizuku implementations
