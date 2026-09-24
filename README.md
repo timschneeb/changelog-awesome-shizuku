@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Sep 24, 2026
+
+### Power management
+
+*   [Battery Health Tracker](https://github.com/FrancescoMin/batteryhealthtracker) - Battery health diagnostics and true chemical capacity tracker for Oppo, OnePlus, and Realme devices via Shizuku. `Apache-2.0`
+
 ## Sep 22, 2026
 
 ### Android TV
