@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Sep 25, 2026
+
+### AI agents
+
+*   [AutoXiao'er](https://github.com/Joy-word/AutoXiaoer) - On-device AI agent that visually operates Android apps, with scheduled, notification, and ClawBot task triggers. Supports both Shizuku and accessibility-based control. `MIT`
+
 ## Sep 24, 2026
 
 ### Power management
