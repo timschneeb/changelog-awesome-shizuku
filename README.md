@@ -121,10 +121,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [NPatch](https://github.com/7723mod/NPatch) - Rootless LSPosed-based Xposed framework that injects the Xposed API into target APKs `GPL-3.0`
 
-### Power management
-
-*   [Battery Mode Checker](https://github.com/mrdarksidetm/Android-Battery-Unrestricted-Checker) - Audit, manage, and toggle Android battery optimization states (Unrestricted, Optimized, Restricted) with Shizuku `Apache-2.0`
-
 ### Software management
 
 *   [AppVaultX](https://github.com/sunilpaulmathew/AppVaultX) - High-performance app manager powered by Shizuku `GPL-3.0`
@@ -176,7 +172,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [FreeformShell](https://github.com/bravoyush/FreeformShell) - Experimental freeform window-manager helper adding title bars, resize borders and display scaling through Shizuku system APIs. `Apache-2.0`
 *   [O.status](https://github.com/CATCHINGL/O.status) - Minimal status-bar indicator for Wi-Fi, cellular and battery that uses optional Shizuku integration to match system icon colors. `Proprietary`
 *   [sharemove](https://github.com/thejaustin/sharemove) - Hides apps from Android's share, 'Open with' and APK-installer chooser sheets by suspending or disabling components via Shizuku or root. `GPL-3.0`
-*   [YoukiShell](https://github.com/mrYouki/YoukiShell-Android-Desktop) - Plugin-driven Android shell with a taskbar, floating windows and a built-in plugin store; some features need Root or Shizuku `GPL-3.0`
 
 ### Development utilities
 
@@ -434,7 +429,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Display management
 
 *   [akiHz](https://github.com/anlaki-py/akihz) - Lightweight refresh rate switcher with Quick Settings tile, automatic rate detection, and floating FPS monitor `MIT`
-*   [Castla](https://github.com/Suprhimp/castla) - Creates a virtual display, runs apps on it, and streams screen, touch, and audio into a remote browser over local Wi-Fi `Apache-2.0`
 *   [PortalPad](https://github.com/Smart-Home-User/PortalPad) - Turns your phone into a trackpad, air mouse, and remote for external displays like AR glasses, monitors, and TVs `MIT`
 
 ### File management
