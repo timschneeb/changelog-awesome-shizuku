@@ -562,6 +562,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Customization
 
+*   [LinkSheet](https://github.com/LinkSheet/LinkSheet) - Restore the Android <12 Url-App-Link-Chooser with Material3 `Modified MPL-2.0`
 *   [MultiLocale](https://github.com/Nightdavisao/MultiLocale) - A simple app that enables you to add additional (or "unsupported") languages to your device's locale settings, if the OEM (Xiaomi) doesn't let you `MIT`
 
 ### Development utilities
