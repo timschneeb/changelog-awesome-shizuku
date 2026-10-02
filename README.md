@@ -6,6 +6,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## Oct 02, 2026
 
+### Shizuku implementations
+
+*   [Shizuku Next](https://github.com/rushiranpise/Shizuku-Next) - Maintained continuation of thedjchi's fork: automated pairing without typing, start method selection, watchdog, in-app shell terminal, app-ops/firewall manager and a Material 3 UI `Apache-2.0`
+
 ### AI agents
 
 *   [talon](https://github.com/thefalconry/talon) - Multi-platform agentic AI harness for Telegram/Discord/Teams/terminal with a Flutter companion app; Shizuku enables silent self-updates and elevated access. `Apache-2.0`
