@@ -1065,16 +1065,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [TurboIMS](https://github.com/Turbo1123/TurboIMS) - Enhanced IMS Configuration Tool for Google Pixel devices `Apache-2.0`
 
-## Oct 03, 2025
-
-### Customization
-
-*   [ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains some easy-to-use tools to go beyond the level of control allowed by Android System `GPL-3.0`
-
-### Software management
-
-*   [Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta) - Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta)
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
