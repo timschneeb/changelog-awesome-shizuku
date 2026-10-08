@@ -107,6 +107,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [PULSE // BATTERY](https://github.com/kreza6173-pixel/pulse-battery) - Overnight per-app alarm-wakeup report with verified one-tap standby restrict and revert, plus wake lock and alarm diagnostics, Doze controls and APK backup `MIT`
 
+### Vendor-specific / AYN
+
+*   [thor-pathfinder](https://github.com/KaitonGxx/thor-pathfinder) - AYN Thor dual-screen companion: swaps running apps between screens and maps button/combo shortcuts per game profile, using Shizuku to move windows to the other display. `GPL-3.0`
+
 ### Vendor-specific / Samsung OneUI
 
 *   [duo-fold-live](https://github.com/joeconsorti/duo-fold-live) - Live hinge-driven iPhone-Duo fold animation for Galaxy Z Fold 8 with windowed glass, live cover previews and smooth display handoff, reading the true hinge angle via Shizuku. `MIT`
@@ -121,7 +125,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [BooxUltimatum](https://github.com/huuunleashed/BooxUltimatum) - Open-source suite for BOOX E Ink tablets: high-contrast home, sleep screens, instant pen ink, battery log and reversible tweaks, using Shizuku for privileged tweak tiers. `GPL-3.0`
 *   [DiAuto](https://github.com/shihabal3amri/DiAuto) - Wireless and USB Android Auto receiver for BYD DiLink head units; runs entirely on the car display and uses Shizuku or root for privileged setup. No phone companion app or dongle. `AGPL-3.0`
-*   [thor-pathfinder](https://github.com/KaitonGxx/thor-pathfinder) - AYN Thor dual-screen companion: swaps running apps between screens and maps button/combo shortcuts per game profile, using Shizuku to move windows to the other display. `GPL-3.0`
 
 ## Sep 27, 2026
 
@@ -221,14 +224,17 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [ProcessLens](https://github.com/Dreamucxe/ProcessLens) - Process observatory using Shizuku for ADB-level CPU, memory, thread, wake lock and per-app battery readings. `MIT`
 
+### Vendor-specific / AYN
+
+*   [Thor SidePad](https://github.com/bentolanh/thor-sidepad) - Turns the AYN Thor bottom screen into a virtual gamepad; Shizuku injects its presses as native controller input. `MIT`
+
 ### Vendor-specific / Google Pixel
 
 *   [TensorIMS](https://github.com/Pixel-Tailor-CN/TensorIMS) - IMS configuration tool for Tensor Pixel devices; Shizuku applies VoLTE, VoWiFi, VT and VoNR toggles. `Apache-2.0`
 
-### Vendor-specific / Other
+### Vendor-specific / Nothing Phone
 
 *   [buttonoo](https://github.com/bractstudio/buttonoo) - Remaps the Nothing Essential Key to any press pattern; Shizuku enables the privileged input route. `GPL-3.0`
-*   [Thor SidePad](https://github.com/bentolanh/thor-sidepad) - Turns the AYN Thor bottom screen into a virtual gamepad; Shizuku injects its presses as native controller input. `MIT`
 
 ## Sep 20, 2026
 
@@ -358,6 +364,11 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [MemorySnapshot](https://github.com/RyensX/MemorySnapshot/blob/master/docs/README_EN.md) - On-device Android memory observer: per-app/process PSS tracking, snapshot save and compare, with data gathered via Shizuku or root. `Proprietary`
 
+### Vendor-specific / AYN
+
+*   [Thors-Lightning](https://github.com/HughesTechNZ/Thors-Lightning) - Controller-driven dual-screen brightness control for the AYN Thor, with optional Shizuku-privileged input recording. `MIT`
+*   [ThorVolumeLink](https://github.com/pth2000/ThorVolumeLink) - Synchronized volume control for the dual displays of the AYN Thor `MIT`
+
 ### Vendor-specific / MIUI
 
 *   [HyperOS-MTZ-Studio](https://github.com/GloriousApps/HyperOS-MTZ-Studio/blob/main/readme_en.md) - MTZ theme workspace for Xiaomi HyperOS; imports, composes, translates and applies themes, using Shizuku or Shevery for rootless theme application. `Proprietary`
@@ -368,8 +379,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [Evolve\_Launcher\_v2](https://github.com/JarJarBlinkz/Evolve_Launcher_v2) - Customizable home launcher for Meta Quest headsets with app organization, playtime tracking and Shizuku-powered clear data/cache actions. `Proprietary`
 *   [MindControl](https://github.com/Dinico414/MindControl) - Hardware button remapper and AOD toolkit for the iKKO MindOne that monitors physical keys through Shizuku getevent, with a root fallback. `Proprietary`
 *   [panel-assistant](https://github.com/panel-assistant/android) - Home Assistant wall-panel dashboard with entity filtering, MQTT device controls and Shizuku/root-powered provisioning and verified installs. `Apache-2.0`
-*   [Thors-Lightning](https://github.com/HughesTechNZ/Thors-Lightning) - Controller-driven dual-screen brightness control for the AYN Thor, with optional Shizuku-privileged input recording. `MIT`
-*   [ThorVolumeLink](https://github.com/pth2000/ThorVolumeLink) - Synchronized volume control for the dual displays of the AYN Thor `MIT`
 
 ### Development libraries / Core
 
@@ -495,6 +504,11 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [RvSystem Monitor](https://github.com/Rve27/RvSystem-Monitor) - High-performance system monitor (Compose + Rust) with Shizuku-fed CPU and hardware insights `GPL-3.0`
 
+### Vendor-specific / AYN
+
+*   [Heimdall-AYN-Thor-Assistant](https://github.com/mastercook777/Heimdall-AYN-Thor-Assistant) - Lower-screen game assistant for the AYN Thor with profiles, macros, touch controls, maps and Shizuku-powered touch injection. `Apache-2.0`
+*   [thor-wayfinder](https://github.com/Thor-Wayfinder/thor-wayfinder) - Moves apps between the two AYN Thor screens with back-button gestures `CC-BY-NC-ND-4.0`
+
 ### Vendor-specific / Google Pixel
 
 *   [carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel) - Maintained Pixel IMS toolkit: tune VoLTE/VoWiFi/VoNR, 5G display and carrier config via Shizuku `Apache-2.0`
@@ -512,8 +526,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Calibrate-SoC](https://github.com/mayusi/Calibrate-SoC) - SoC tuner, monitor and benchmark suite for Android gaming handhelds with goal-seeking governor and live HUD. `Apache-2.0`
 *   [flipx](https://github.com/jlgrimes/flipx) - Routes the home button to different launchers based on Anbernic RG Rotate hinge state `Proprietary`
-*   [Heimdall-AYN-Thor-Assistant](https://github.com/mastercook777/Heimdall-AYN-Thor-Assistant) - Lower-screen game assistant for the AYN Thor with profiles, macros, touch controls, maps and Shizuku-powered touch injection. `Apache-2.0`
-*   [thor-wayfinder](https://github.com/Thor-Wayfinder/thor-wayfinder) - Moves apps between the two AYN Thor screens with back-button gestures `CC-BY-NC-ND-4.0`
 
 ## Sep 08, 2026
 
@@ -587,7 +599,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [HyperOS FCM Fix](https://github.com/dingwen07/hyperos-fcm-fix) - Keeps Google Play services unrestricted on HyperOS so FCM push notifications arrive on time `GPL-3.0`
 *   [HyperOSUnfcker](https://github.com/Enki013/hyperosunfcker) - Unlocks hidden performance, display, memory, battery, and visual settings on HyperOS/MIUI devices `LGPL-3.0`
 
-### Vendor-specific / Other
+### Vendor-specific / Nothing Phone
 
 *   [GlyphBarty](https://github.com/Link2011-Act2/GlyphBarty) - Customizable Glyph visualizer for Nothing Phone with music sync, Quick Settings toggle, and charging status display `MIT`
 
@@ -927,7 +939,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Traffic Light](https://play.google.com/store/apps/details?id=com.leekleak.trafficlight) - A persistent network speed tracker in your status bar `GPL-3.0` [(Source code)](https://github.com/leekleak/traffic-light)
 
-### Vendor-specific / Other
+### Vendor-specific / Nothing Phone
 
 *   [Recording-Light-Control](https://github.com/Farpathan/Recording-Light-Control) - Recording Light Control gives precise control over the Nothing Phone (3)'s recording light `Proprietary`
 
