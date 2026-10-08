@@ -10,6 +10,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [LogCat Live Wallpaper](https://github.com/YasserNull/logcat-live-wallpaper) - Live wallpaper that displays Logcat output on screen with customizable colors, fonts and scrolling; uses Shizuku or root for the full log. `GPL-3.0`
 
+### Power management
+
+*   [Battery Health Tracker](https://github.com/FrancescoMin/batteryhealthtracker) - Battery health diagnostics and true chemical capacity tracker for Oppo, OnePlus, Realme, and Samsung devices via Shizuku. `Apache-2.0`
+
 ## Oct 05, 2026
 
 ### Development utilities
@@ -130,12 +134,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### AI agents
 
 *   [AutoXiao'er](https://github.com/Joy-word/AutoXiaoer) - On-device AI agent that visually operates Android apps, with scheduled, notification, and ClawBot task triggers. Supports both Shizuku and accessibility-based control. `MIT`
-
-## Sep 24, 2026
-
-### Power management
-
-*   [Battery Health Tracker](https://github.com/FrancescoMin/batteryhealthtracker) - Battery health diagnostics and true chemical capacity tracker for Oppo, OnePlus, and Realme devices via Shizuku. `Apache-2.0`
 
 ## Sep 22, 2026
 
