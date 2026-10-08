@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Oct 08, 2026
+
+### Customization
+
+*   [LogCat Live Wallpaper](https://github.com/YasserNull/logcat-live-wallpaper) - Live wallpaper that displays Logcat output on screen with customizable colors, fonts and scrolling; uses Shizuku or root for the full log. `GPL-3.0`
+
 ## Oct 05, 2026
 
 ### Development utilities
