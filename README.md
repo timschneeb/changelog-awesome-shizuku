@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Oct 10, 2026
+
+### AI agents
+
+*   [DeepSeek Harness for Android](https://github.com/guzhou079-arch/deepseek-harness-android) - Packages the DeepSeek Harness agent runtime and 21 bundled skills into an APK with no Termux or root needed. Shizuku powers the privileged shell, app control and virtual-display automation; the app can also build and sign its own APK on-device. `MIT`
+
 ## Oct 08, 2026
 
 ### Customization
