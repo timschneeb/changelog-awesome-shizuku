@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Oct 11, 2026
+
+### AI agents
+
+*   [Verdroid](https://github.com/chr243/Verdroid) - On-device AI agent tuned for free OpenRouter/Kilo models, with Termux tools, Shizuku/rish shell access, accessibility control and ebook/PDF translation. `GPL-3.0`
+
 ## Oct 10, 2026
 
 ### AI agents
