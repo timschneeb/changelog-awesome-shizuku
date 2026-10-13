@@ -108,7 +108,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Miscellaneous
 
-*   [Fern](https://github.com/wized2/Fern) - Material 3 live system monitor for CPU, RAM, storage, battery, thermal and network, with an optional Shizuku shell for elevated readings. `Proprietary`
+*   [Fern](https://github.com/wized2/Fern) - Material 3 live system monitor for CPU, RAM, storage, battery, thermal and network; Shizuku/root Advanced mode for real per-app CPU/RAM, thermals and force-stop. `MIT`
 *   [ghostlock-app](https://github.com/YuKongA/ghostlock-app) - One-tap CVE-2026-43499 privilege-escalation app granting temporary uid 0 across many stock devices; Shizuku-required kernel profiles run through a shell Shizuku. `Apache-2.0`
 
 ### Network
