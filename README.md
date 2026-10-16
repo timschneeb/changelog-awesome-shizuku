@@ -549,7 +549,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Software management
 
-*   [Guest-Manager](https://github.com/dlawoals2713/Guest-Manager) - Enables hidden Guest and multi-user modes on devices where the maker disabled them, via Shizuku shell without root. `Proprietary`
 *   [Minimal Kernel Manager](https://github.com/zenithblue-oss/mkm) - Kernel manager and system monitor with battery stats, apply-on-boot and hidden-app support via Shizuku or root. `GPL-3.0`
 
 ### Task manager
