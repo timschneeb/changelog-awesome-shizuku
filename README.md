@@ -13,6 +13,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Automation
 
 *   [Airplane Scheduler](https://f-droid.org/packages/io.github.probecat.airplanescheduler/) - Turns airplane mode on and off on a schedule so your phone goes quiet at night, with overnight ranges, optional Wi-Fi toggling `GPL-3.0` [(Source code)](https://github.com/probecat/airplane-scheduler-app)
+*   [Latch](https://github.com/wized2/Latch) - Privacy-first Tasker-style automation with local if/then rules, multi-action chains, optional Shizuku/root elevated actions, and no cloud. `MIT`
 
 ### Display management
 
