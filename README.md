@@ -22,9 +22,14 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [bunnylock](https://github.com/btsearch/bunnylock) - Lock 2G/3G/4G/5G bands, RATs, frequencies and cells without root, picking the best backend available (Qualcomm, MediaTek, Pixel Tensor, Exynos, radio HAL) `GPL-3.0`
 
+### Power management
+
+*   [PULSE // BATTERY](https://github.com/privshell/pulse-battery) - Overnight per-app alarm-wakeup report with verified one-tap standby restrict and revert, plus wake lock and alarm diagnostics, Doze controls and APK backup `MIT`
+
 ### Software management
 
 *   [User-Hopper](https://github.com/dlawoals2713/User-Hopper) - Create, start, stop and delete guest and secondary users on devices where the maker disabled multi-user support `GPL-3.0`
+*   [VOID // APPS](https://github.com/privshell/void-apps) - Shizuku app manager: suspend, disable, debloat presets, permissions and AppOps, autostart, per-app network block, APK/XAPK installer and cleaner. Every change is read back from Android `MIT`
 
 ### Task manager
 
@@ -85,7 +90,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [ADB Application Manager Pro](https://github.com/Bingblop/ADB-Application-Manager) - All-in-one app and device manager for debloating, freezing, installing, backing up and tweaking hidden settings through Shizuku or ADB. `Proprietary`
 *   [CloneSpace](https://github.com/udmodz0/adb-cloner) - App cloner and isolated multi-user workspace powered by Shizuku that runs extra copies of apps in separate profiles without duplicating APKs or needing a PC. `Apache-2.0`
-*   [VOID // APPS](https://github.com/kreza6173-pixel/void-apps) - Shizuku app manager: suspend, disable, debloat presets, permissions and AppOps, autostart, per-app network block, APK/XAPK installer and cleaner. Every change is read back from Android `MIT`
 *   [Youki Users](https://github.com/mrYouki/Youki-Users) ✨ - Standalone Android multi-user manager to create, switch and delete user profiles with custom photos. `GPL-3.0`
 
 ### Task manager
@@ -154,10 +158,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Network
 
 *   [hotspot\_channel\_setter](https://github.com/Lorax121/hotspot_channel_setter) - Lists and applies the Wi-Fi hotspot SoftAP 2.4/5 GHz channel via Shizuku or root and persists the choice across reboots. `Proprietary`
-
-### Power management
-
-*   [PULSE // BATTERY](https://github.com/kreza6173-pixel/pulse-battery) - Overnight per-app alarm-wakeup report with verified one-tap standby restrict and revert, plus wake lock and alarm diagnostics, Doze controls and APK backup `MIT`
 
 ### Vendor-specific / AYN
 
