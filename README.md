@@ -4,6 +4,36 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Oct 16, 2026
+
+### AI agents
+
+*   [Virtual Screen](https://github.com/lejw0925/android-virtual-screen/blob/main/README.en.md) - Gives an AI agent its own Android display to launch and operate apps on while you keep using the main screen, with an on-phone MCP server, PiP progress and take-over control `PolyForm-Noncommercial-1.0.0`
+
+### Automation
+
+*   [Airplane Scheduler](https://f-droid.org/packages/io.github.probecat.airplanescheduler/) - Turns airplane mode on and off on a schedule so your phone goes quiet at night, with overnight ranges, optional Wi-Fi toggling `GPL-3.0` [(Source code)](https://github.com/probecat/airplane-scheduler-app)
+
+### Display management
+
+*   [GrayPause](https://f-droid.org/packages/com.lpw.graypause/) - Keeps your phone in grayscale and runs self-ending color breaks on a timer, with a Quick Settings tile, launcher shortcuts, countdown notifications and per-app color exceptions `GPL-3.0` [(Source code)](https://metaheavens.de/forgejo/metaheavens/graypause)
+
+### Network
+
+*   [bunnylock](https://github.com/btsearch/bunnylock) - Lock 2G/3G/4G/5G bands, RATs, frequencies and cells without root, picking the best backend available (Qualcomm, MediaTek, Pixel Tensor, Exynos, radio HAL) `GPL-3.0`
+
+### Software management
+
+*   [User-Hopper](https://github.com/dlawoals2713/User-Hopper) - Create, start, stop and delete guest and secondary users on devices where the maker disabled multi-user support `GPL-3.0`
+
+### Task manager
+
+*   [Pulse](https://github.com/xUmutKx/Pulse) - All-in-one toolbox built around a live task manager: CPU, memory, storage, network and temperature graphs, plus file explorer, silent installer, debloater, widgets and terminal `Proprietary`
+
+### Vendor-specific / Other
+
+*   [SuperBoox](https://github.com/rn-os/superboox) - Supernote-style swipe-in quick access panel for ONYX BOOX e-ink tablets with pinned notes and books, quick controls, clipboard history `Proprietary`
+
 ## Oct 13, 2026
 
 ### Customization
