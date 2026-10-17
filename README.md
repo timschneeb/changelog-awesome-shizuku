@@ -120,7 +120,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [duo-open](https://github.com/marcoazeem/duo-open) - System-wide iPhone-Duo frosted-glass fold effect for book-style foldables, driven by the real hinge angle as an accessibility overlay or live wallpaper, with optional Shizuku. `MIT`
 *   [EdgeGesture](https://github.com/Evilgodxu/EdgeGesture) - Edge-gesture app built on accessibility plus Shizuku: edge swipes, back-tap, floating music and task panels, freeform and app-kill actions. `AGPL-3.0`
 *   [Google-Shortcuts-Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) - Launcher app-drawer shortcut hub for Google app features; Shizuku launches otherwise inaccessible Google components. `GPL-3.0`
-*   [GSplit](https://github.com/Salat39/GSplit) - Split-screen and freeform multi-window presets with scheduling, boot autostart and overlays; an optional Shizuku ADB shell configures splits. `Proprietary`
+*   [GSplit](https://github.com/Salat39/GSplit) ✨ - Split-screen and freeform multi-window presets with scheduling, boot autostart and overlays; an optional Shizuku ADB shell configures splits. `Proprietary`
 *   [SysReadout-Launcher](https://github.com/AndSni/SysReadout-Launcher) - Terminal-style launcher that turns the home screen into a live system monitor with pinned status rows, process/connection/DNS tables and an event log, reading system data through Shizuku. `GPL-3.0`
 
 ### Development utilities
@@ -133,7 +133,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### File management
 
-*   [MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) - Dual-pane Material file manager focused on APKs as an open-source MT Manager alternative, with root and Shizuku privileged file management. `GPL-3.0`
+*   [MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) ✨ - Dual-pane Material file manager focused on APKs as an open-source MT Manager alternative, with root and Shizuku privileged file management. `GPL-3.0`
 
 ### Games
 
@@ -168,7 +168,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [duo-fold-live](https://github.com/joeconsorti/duo-fold-live) - Live hinge-driven iPhone-Duo fold animation for Galaxy Z Fold 8 with windowed glass, live cover previews and smooth display handoff, reading the true hinge angle via Shizuku. `MIT`
 *   [galaxy-auto-brightness-offset](https://github.com/fullmetalsonic/galaxy-auto-brightness-offset) - Samsung Galaxy adaptive-brightness offset for screens that feel too dark or too bright, including under privacy films: applies a fixed correction to the auto-brightness curve via Shizuku. `Proprietary`
-*   [Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) - KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 `Apache-2.0`
+*   [Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) ✨ - KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 `Apache-2.0`
 
 ### Vendor-specific / MIUI
 
@@ -241,7 +241,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### File management
 
-*   [MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android `GPL-3.0`
+*   [MaterialFiles](https://github.com/zhanghai/MaterialFiles) ✨ - Material Design file manager for Android `GPL-3.0`
 *   [UnscopeMyData](https://github.com/kepatotorica/UnscopeMyData) - Moves app data in and out of scoped storage folders using Shizuku for elevated file access. `GPL-3.0`
 *   [XClean](https://github.com/utopiafar/XClean) - Rule-based cleaner with Normal, Shizuku and Root engines for clearing app junk. `Proprietary`
 
@@ -297,7 +297,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Patching
 
-*   [NPatch](https://github.com/7723mod/NPatch) - Rootless LSPosed-based Xposed framework that injects the Xposed API into target APKs `GPL-3.0`
+*   [NPatch](https://github.com/7723mod/NPatch) ✨ - Rootless LSPosed-based Xposed framework that injects the Xposed API into target APKs `GPL-3.0`
 
 ### Software management
 
@@ -490,7 +490,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Customization
 
-*   [SetEditPlus](https://github.com/kerneldroid/SetEditPlus) - Editor for Android System/Secure/Global settings tables with Shizuku/Root modes, change tracking and boot persistence. `Proprietary`
+*   [SetEditPlus](https://github.com/kerneldroid/SetEditPlus) ✨ - Editor for Android System/Secure/Global settings tables with Shizuku/Root modes, change tracking and boot persistence. `Proprietary`
 
 ### Development utilities
 
@@ -592,8 +592,8 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Automation
 
-*   [IMD](https://github.com/soul-99/SU_IMD) - Fork of Geto that hides developer options, ADB, accessibility services and Shizuku itself for restrictive apps like banking, then restores them `GPL-3.0`
-*   [vFlow](https://github.com/ChaoMixian/vFlow/blob/master/README_EN.md) - Visual automation tool that combines tapping, recognition, branching, and system actions into approachable workflows `GPL-2.0`
+*   [IMD](https://github.com/soul-99/SU_IMD) ✨ - Fork of Geto that hides developer options, ADB, accessibility services and Shizuku itself for restrictive apps like banking, then restores them `GPL-3.0`
+*   [vFlow](https://github.com/ChaoMixian/vFlow/blob/master/README_EN.md) ✨ - Visual automation tool that combines tapping, recognition, branching, and system actions into approachable workflows `GPL-2.0`
 
 ### Customization
 
@@ -632,7 +632,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [CaptureCap](https://github.com/yepgoryo/CaptureCap) - Screen and audio recording and streaming app, no root required `MIT`
 *   [Mafza](https://github.com/yshalsager/Mafza) - Emergency actions runner with one configurable profile, external emergency triggers, and a safe Dry Run mode `Proprietary`
-*   [overlay-translator](https://github.com/ciddwd/overlay-translator) - Real-time on-screen translator for games, visual novels, and manga with on-device/cloud OCR and floating overlay `Apache-2.0`
+*   [overlay-translator](https://github.com/ciddwd/overlay-translator) ✨ - Real-time on-screen translator for games, visual novels, and manga with on-device/cloud OCR and floating overlay `Apache-2.0`
 
 ### Software management
 
@@ -682,7 +682,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Audio
 
-*   [Volume++](https://github.com/noel-digital-fan/volume_plus_plus) - Custom volume panel with per-app audio mixing via Shizuku or root `MIT`
+*   [Volume++](https://github.com/noel-digital-fan/volume_plus_plus) ✨ - Custom volume panel with per-app audio mixing via Shizuku or root `MIT`
 
 ### Customization
 
@@ -694,7 +694,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Display management
 
-*   [Dextop](https://github.com/NarYuki/Dextop) - Desktop environment using Samsung DeX or Shizuku with multitasking and custom resolution `GPL-3.0`
+*   [Dextop](https://github.com/NarYuki/Dextop) ✨ - Desktop environment using Samsung DeX or Shizuku with multitasking and custom resolution `GPL-3.0`
 
 ### File management
 
@@ -751,7 +751,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Installer & app stores
 
-*   [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options `MIT`
+*   [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) ✨ - Simple-ish app using Shizuku to install APKs on-device with advanced options `MIT`
 
 ### Network
 
@@ -779,7 +779,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Development utilities
 
-*   [ActivityManager](https://github.com/sdex/ActivityManager) - Launch hidden and unexported activities directly without root `Apache-2.0`
+*   [ActivityManager](https://github.com/sdex/ActivityManager) ✨ - Launch hidden and unexported activities directly without root `Apache-2.0`
 
 ### Display management
 
@@ -928,7 +928,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Power management
 
-*   [NoMoreBackground](https://f-droid.org/packages/com.adilhanney.no_more_background/) - A fire-and-forget program to stop Android apps from running in the background `GPL-3.0` [(Source code)](https://github.com/adil192/no_more_background)
+*   [NoMoreBackground](https://f-droid.org/packages/com.adilhanney.no_more_background/) ✨ - A fire-and-forget program to stop Android apps from running in the background `GPL-3.0` [(Source code)](https://github.com/adil192/no_more_background)
 
 ### Software management
 
@@ -1009,7 +1009,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Power management
 
-*   [EnforceDoze](https://f-droid.org/packages/com.akylas.enforcedoze/) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life `GPL-3.0` [(Source code)](https://github.com/Akylas/EnforceDoze)
+*   [EnforceDoze](https://f-droid.org/packages/com.akylas.enforcedoze/) ✨ - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life `GPL-3.0` [(Source code)](https://github.com/Akylas/EnforceDoze)
 
 ## Jan 03, 2026
 
@@ -1035,7 +1035,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Device owner (DPM)
 
-*   [OwnDroid](https://github.com/BinTianqi/OwnDroid) - Manage your device with Device owner privileges `GPL-3.0`
+*   [OwnDroid](https://github.com/BinTianqi/OwnDroid) ✨ - Manage your device with Device owner privileges `GPL-3.0`
     *   [MDPC](https://github.com/MrRare2/MDPC) - Fork of OwnDroid with added features `GPL-3.0`
 
 ### Games
