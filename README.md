@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Oct 17, 2026
+
+### Network
+
+*   [Network Scanner](https://github.com/usamaiqb/network-scanner) - Offline, privacy-focused scanner that discovers devices on your local network with hostnames, open ports and device types, using Shizuku or root to read the ARP table so MAC addresses and vendors show on Android 10+ `GPL-3.0`
+
 ## Oct 16, 2026
 
 ### AI agents
