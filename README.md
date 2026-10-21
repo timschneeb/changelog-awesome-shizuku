@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Oct 21, 2026
+
+### Audio
+
+*   [SplitAudio](https://github.com/monarchsofchaos004-gif/splitaudio) - Keeps your music app on Bluetooth and routes every other app to the phone speaker (AudioPolicy UID mix through Shizuku, no root); videos in other apps no longer pause the music. Alpha, tested on Xiaomi 15 / HyperOS 3. `MIT`
+
 ## Oct 17, 2026
 
 ### Network
