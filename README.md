@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Oct 23, 2026
+
+### Miscellaneous
+
+*   [TinyKit](https://github.com/Order52/tinykit) - 39 KB toolbox of one-tap Shizuku tweaks: hide developer options, ad-blocking DNS, per-app camera/mic and background blocking, APK backup, cache cleaning, free hotspot and Shizuku start/stop. `MIT`
+
 ## Oct 21, 2026
 
 ### Audio
