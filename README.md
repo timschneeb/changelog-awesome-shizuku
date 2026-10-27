@@ -14,6 +14,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [shizuku-termux](https://github.com/Order52/shizuku-termux) - Start Shizuku from Termux with one command, or one tap in a 17 KB companion app. Works without a PC via Wireless debugging, adb tcpip or root, including on phones without Wireless debugging such as Huawei/EMUI `MIT`
 
+## Oct 22, 2026
+
+### Privacy
+
+*   [PhoneGuard](https://github.com/monarchsofchaos004-gif/phoneguard) - Guards an elderly relative's phone against apps that take over the screen; with Shizuku it force-stops or disables the offender and revokes its overlay and accessibility access. Remote rescue via encrypted ntfy. Alpha. `MIT`
+
 ## Oct 21, 2026
 
 ### Audio
