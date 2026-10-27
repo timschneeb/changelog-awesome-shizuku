@@ -10,6 +10,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [TinyKit](https://github.com/Order52/tinykit) - 39 KB toolbox of one-tap Shizuku tweaks: hide developer options, ad-blocking DNS, per-app camera/mic and background blocking, APK backup, cache cleaning, free hotspot and Shizuku start/stop. `MIT`
 
+### Miscellaneous content / Command-line utilities
+
+*   [shizuku-termux](https://github.com/Order52/shizuku-termux) - Start Shizuku from Termux with one command, or one tap in a 17 KB companion app. Works without a PC via Wireless debugging, adb tcpip or root, including on phones without Wireless debugging such as Huawei/EMUI `MIT`
+
 ## Oct 21, 2026
 
 ### Audio
