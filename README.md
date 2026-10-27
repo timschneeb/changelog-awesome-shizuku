@@ -16,6 +16,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ## Oct 22, 2026
 
+### Customization
+
+*   [Applingo](https://github.com/ernisn/Applingo) - Set one or more languages for any app and keep settings if dropped by the system. Manage language settings in batch easily with modern UI and Android TV support `MIT`
+
 ### Privacy
 
 *   [PhoneGuard](https://github.com/monarchsofchaos004-gif/phoneguard) - Guards an elderly relative's phone against apps that take over the screen; with Shizuku it force-stops or disables the offender and revokes its overlay and accessibility access. Remote rescue via encrypted ntfy. Alpha. `MIT`
