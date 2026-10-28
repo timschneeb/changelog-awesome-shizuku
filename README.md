@@ -4,6 +4,16 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Oct 28, 2026
+
+### Network
+
+*   [EtherTether](https://github.com/oytuncagil/ethertether) - Ethernet tethering with a fixed IPv4 address of your choice (for example for link-local devices) or normal DHCP, for any USB-C Ethernet adapter; profiles, Quick Settings tile, widget and automatic start on plug-in `Apache-2.0 OR GPL-3.0-or-later`
+
+### Privacy
+
+*   [RedirectGuard](https://github.com/rdevz-ph/RedirectGuard) - Intercepts unwanted ad redirects and deep links to prompt before opening external apps, terminating redirected processes with Shizuku `Apache-2.0`
+
 ## Oct 23, 2026
 
 ### Miscellaneous
