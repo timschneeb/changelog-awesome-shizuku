@@ -4,6 +4,39 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Oct 30, 2026
+
+### Android Auto
+
+*   [AARE](https://github.com/prototux/AARE) - Open-source phone-side Android Auto reimplementation with navigation, media and messaging; Shizuku routes car audio without root `GPL-3.0`
+*   [UnknownAuto](https://github.com/GitMag/UnknownAuto) - Sideload and install Android Auto apps from unknown sources on-device, marking installs as Play-sourced via Shizuku `MIT`
+
+### Customization
+
+*   [Droidbubble](https://github.com/Velocity081/droidbubble) - Interactive Dynamic Island overlay around the camera cutout with media, notifications and charging indicators; Shizuku hides status-bar icons `MIT`
+*   [SwitchAI](https://github.com/WSTxda/SwitchAI) - Select, start and manage preferred AI digital assistants with widgets and Quick Settings tiles; Shizuku enables voice input for specific assistants `GPL-3.0`
+
+### Entertainment
+
+*   [Hush](https://github.com/coldMEW/Hush) - Skips Spotify ad breaks by restarting Spotify in the background, with optional Spotify-only DNS filter; works via Wireless debugging or Shizuku `GPL-3.0`
+
+### File management
+
+*   [Voyager](https://github.com/AlanHuang99/Voyager) - Material Design 3 file browser for local storage, SFTP, FTP, SMB and WebDAV with an optional Shizuku session `GPL-3.0`
+
+### Miscellaneous
+
+*   [abCheck](https://github.com/abanana84/abCheck) - Device and system diagnostics with hardware info, tests, live monitors and battery tools; Shizuku unlocks additional read-only diagnostics `Apache-2.0`
+*   [FluxLinux](https://github.com/zenithblue-oss/fluxlinux) - Run full Linux desktops on Android with 12 distros, PRoot/Chroot, XFCE4, X11 and PulseAudio; Shizuku applies the phantom-process fix `GPL-3.0`
+
+### Power management
+
+*   [Stop](https://github.com/burakgon/stop) - Background app blocker that force-stops selected apps after you leave them via Shizuku, with new-install prompts and Play-safe updates `GPL-3.0`
+
+### Vendor-specific / Other
+
+*   [InkPalm+](https://github.com/rn-os/inkpalm-plus) - Side panel of recent apps plus per-app e-ink tuning, fonts and touch-button remapping for the Moaan InkPalm Plus; Shizuku covers whitelist and animation toggles `Apache-2.0`
+
 ## Oct 28, 2026
 
 ### Network
