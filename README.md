@@ -104,7 +104,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Task manager
 
-*   [Pulse](https://github.com/xUmutKx/Pulse) - All-in-one toolbox built around a live task manager: CPU, memory, storage, network and temperature graphs, plus file explorer, silent installer, debloater, widgets and terminal `Proprietary`
+*   [Pulse](https://github.com/xUmutKx/Pulse) - All-in-one toolbox built around a live task manager: CPU, memory, storage, network and temperature graphs, plus file explorer, silent installer, debloater, widgets and terminal `GPL-3.0`
 
 ### Vendor-specific / Other
 
@@ -118,7 +118,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Entertainment
 
-*   [Crosstune](https://github.com/astrovm/crosstune) - Opens any music link in your preferred app with exact match, playlists and synced lyrics; one-tap setup via Shizuku `MIT`
+*   [Crosstune](https://github.com/astrovm/crosstune) - Opens any music link in your preferred app with exact match, playlists and synced lyrics; one-tap setup via Shizuku `GPL-3.0`
 
 ### File management
 
@@ -159,7 +159,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Software management
 
-*   [ADB Application Manager Pro](https://github.com/Bingblop/ADB-Application-Manager) - All-in-one app and device manager for debloating, freezing, installing, backing up and tweaking hidden settings through Shizuku or ADB. `Proprietary`
+*   [ADB Application Manager Pro](https://github.com/Bingblop/ADB-Root-Toolbox) - All-in-one app and device manager for debloating, freezing, installing, backing up and tweaking hidden settings through Shizuku or ADB. `GPL-3.0`
 *   [CloneSpace](https://github.com/udmodz0/adb-cloner) - App cloner and isolated multi-user workspace powered by Shizuku that runs extra copies of apps in separate profiles without duplicating APKs or needing a PC. `Apache-2.0`
 *   [VOID // APPS](https://github.com/privshell/void-apps) - Shizuku app manager: suspend, disable, debloat presets, permissions and AppOps, autostart, per-app network block, APK/XAPK installer and cleaner. Every change is read back from Android `MIT`
 *   [Youki Users](https://github.com/mrYouki/Youki-Users) ✨ - Standalone Android multi-user manager to create, switch and delete user profiles with custom photos. `GPL-3.0`
@@ -218,7 +218,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Installer & app stores
 
 *   [ShizuStore](https://github.com/timschneeb/ShizuStore) ✨ - App store for Shizuku apps. Based on this awesome-shizuku list and installs APKs straight from their upstream sources `GPL-3.0`
-*   [tern](https://github.com/munzzyy/tern) - Obtainium-style updater that verifies package name, signing certificate and publisher checksums before installing via Shizuku, Dhizuku, root or the system installer on phones, tablets and TV. `GPL-3.0`
+*   [tern](https://gitlab.com/Munzzyy/tern) - Obtainium-style updater that verifies package name, signing certificate and publisher checksums before installing via Shizuku, Dhizuku, root or the system installer on phones, tablets and TV. `GPL-3.0`
 *   [yuki](https://github.com/carlelieser/yuki) - Catalog and storefront for open-source Shizuku apps, crawled from GitHub `MIT`
 
 ### Miscellaneous
@@ -329,7 +329,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 *   [Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Obtainium fork for discovering and installing apps from source, with Shizuku, Dhizuku and Sui install backends. `GPL-3.0`
 *   [LocalAndroidStore](https://github.com/SysAdminDoc/LocalAndroidStore) - Private app catalog that installs signed GitHub and F-Droid releases, optionally through a Shizuku-owned install session. `MIT`
 *   [Omnify](https://github.com/Victor-root/Omnify) - F-Droid client fork that also installs apps from external sources, with a Shizuku installer and a Works with Shizuku discovery row. `GPL-3.0`
-*   [OpenLoader](https://github.com/thebytearray/OpenLoader) - APK installer built for the Android developer verification era, using Shizuku for the privileged install path. `GPL-3.0`
 *   [Vyxel Apps](https://github.com/NikhilKain/vyxel-apps) `IAP` 💰 - GitHub-backed app store with signature verification and silent installs through Shizuku. `AGPL-3.0`
 
 ### Miscellaneous
@@ -710,7 +709,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Software management
 
-*   [CloneCat](https://github.com/AhmetCanArslan/CloneCat) - Clone and manage apps across work profile, private space, dual apps, and secondary users with home screen shortcuts `Proprietary`
+*   [CloneCat](https://github.com/AhmetCanArslan/CloneCat) - Clone and manage apps across work profile, private space, dual apps, and secondary users with home screen shortcuts `GPL-3.0`
 *   [Dexor](https://github.com/DeveshTone/Dexor) - Ahead-of-time (AOT) bytecode compilation and dexopt runtime manager for Android applications `MIT`
 
 ### Vendor-specific / Samsung OneUI
@@ -833,7 +832,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Patching
 
-*   [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - ReVanced patcher that has extra features the official manager doesn't have `GPL-3.0`
+*   [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-Patch-Manager) - ReVanced patcher that has extra features the official manager doesn't have `GPL-3.0`
 
 ### Quick settings
 
@@ -1127,10 +1126,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Privacy
 
 *   [AntiForensic-Tools](https://github.com/bakad3v/Android-AntiForensic-Tools) - An application designed to silently protect user data from powerful adversaries `GPL-3.0`
-
-### Software management
-
-*   [AppControlX](https://github.com/risunCode/AppControl-X) - Freeze, force stop, uninstall apps, change background optimization and more `GPL-3.0`
 
 ### Vendor-specific / Google Pixel
 
