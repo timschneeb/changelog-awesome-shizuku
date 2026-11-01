@@ -1197,13 +1197,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Fonts](https://apt.izzysoft.de/fdroid/index/apk/com.je.fontsmanager.samsung) - One UI 8 rootless font installer `GPL-3.0` [(Source code)](https://codeberg.org/dryerlint/fontsmanager)
 
-## Oct 31, 2025
-
-### Network
-
-*   [de1984](https://github.com/dorumrr/de1984) - App firewall without using an VPN; can also manage packages `MIT`
-*   [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) ✨ - Open-source app firewall that doesn't depend on VPNs or root `GPL-3.0`
-
 ## Older than one year
 
 This changelog only contains entries modified within the last year. 
