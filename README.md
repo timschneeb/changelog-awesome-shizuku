@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Nov 09, 2026
+
+### AI agents
+
+*   [Agent-VScreen](https://github.com/kilolonion/agent-vscreen/blob/main/README.en.md) - Gives any on-phone AI agent its own background virtual display to launch and drive apps over CLI, MCP or HTTP, with on-device OCR, a take-over floating window and per-app restrictions `MIT` [(Source code)](https://github.com/kilolonion/agent-vscreen)
+
 ## Nov 08, 2026
 
 ### Productivity
