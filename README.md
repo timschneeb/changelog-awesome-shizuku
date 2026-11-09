@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Nov 08, 2026
+
+### Productivity
+
+*   [ClipHistory](https://github.com/saroo98/cliphistory-android) - ClipHistory seamlessly saves the text you copy, so you can find and copy it again later. Works with any keyboard, with one-tap copy from Quick Settings and a super clean, highly customizable design. Passwords auto-delete if you want, and screenshots are blocked. Encrypted, private and 100% offline. `MIT`
+
 ## Oct 30, 2026
 
 ### Android Auto
