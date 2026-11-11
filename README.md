@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Nov 10, 2026
+
+### Games
+
+*   [WaffleBoost](https://github.com/WafflingNinja/waffleboost) - Free, open-source ADB game booster: 27 tweaks over wireless debugging, reverted when you stop playing. Optional Shizuku fallback (not yet tested on device). `MIT`
+
 ## Nov 09, 2026
 
 ### AI agents
@@ -15,6 +21,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Productivity
 
 *   [ClipHistory](https://github.com/saroo98/cliphistory-android) - ClipHistory seamlessly saves the text you copy, so you can find and copy it again later. Works with any keyboard, with one-tap copy from Quick Settings and a super clean, highly customizable design. Passwords auto-delete if you want, and screenshots are blocked. Encrypted, private and 100% offline. `MIT`
+
+## Nov 07, 2026
+
+### Customization
+
+*   [Majician](https://github.com/udmodz0/majician) - Rootless Android system tweaks, device identity spoofer, battery state simulation, DPI controls, and global mock location `MIT`
 
 ## Oct 30, 2026
 
