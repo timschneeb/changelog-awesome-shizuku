@@ -4,6 +4,16 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Nov 15, 2026
+
+### Device owner (DPM)
+
+*   [Webview Kiosk](https://github.com/nktnet1/webview-kiosk) - Turns a device into a locked-down kiosk web page with URL filtering, MDM, MQTT and UnifiedPush support; Shizuku or Dhizuku can provision device owner. `AGPL-3.0`
+
+### Display management
+
+*   [XDesk](https://github.com/n2ray/xdesk) - Runs Android apps or a Linux desktop on an external, car or wireless display, with the phone as touchpad and keyboard; based on Termux:X11, no root required. `GPL-3.0`
+
 ## Nov 10, 2026
 
 ### Games
