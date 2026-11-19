@@ -453,7 +453,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Communication
 
 *   [KDE Connect (Shizuku)](https://github.com/Batestinha/kdeconnect-android-shizuku) - Unofficial KDE Connect fork adding automatic background clipboard sync on Android 10+ via Shizuku and AIDL callbacks. `GPL-2.0`
-*   [RivoPhoneApp](https://github.com/user-grinch/RivoPhoneApp) - Material 3 dialer and contacts app with Shizuku-powered call recording without root `GPL-3.0`
 
 ### Customization
 
@@ -597,7 +596,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Communication
 
-*   [CallVault](https://github.com/madkongo/CallVault) - Non-root call recorder with on-device transcripts/summaries; self-contained over embedded ADB or via an optional Shizuku backend. `GPL-3.0`
 *   [cally](https://github.com/LyoSU/cally) - Call recorder for stock Pixel 6+ devices that captures both call directions via a Shizuku shell-UID audio service, without root or unlocked bootloader. `GPL-3.0`
 *   [GhostMode](https://github.com/Foxlape/GhostMode) - Makes the phone appear unavailable for incoming calls while keeping LTE/5G data active `Apache-2.0`
 
