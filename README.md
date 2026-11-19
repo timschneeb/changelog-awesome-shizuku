@@ -30,7 +30,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### AI agents
 
-*   [Agent-VScreen](https://github.com/kilolonion/agent-vscreen/blob/main/README.en.md) - Gives any on-phone AI agent its own background virtual display to launch and drive apps over CLI, MCP or HTTP, with on-device OCR, a take-over floating window and per-app restrictions `MIT` [(Source code)](https://github.com/kilolonion/agent-vscreen)
+*   [Agent-VScreen](https://github.com/kilolonion/agent-vscreen) - Gives any on-phone AI agent its own background virtual display to launch and drive apps over CLI, MCP or HTTP, with on-device OCR, a take-over floating window and per-app restrictions `MIT`
 
 ## Nov 08, 2026
 
@@ -53,7 +53,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Customization
 
-*   [Droidbubble](https://github.com/Velocity081/droidbubble) - Interactive Dynamic Island overlay around the camera cutout with media, notifications and charging indicators; Shizuku hides status-bar icons `MIT`
+*   [Droidbubble](https://github.com/Velocity081/droidtools) - Interactive Dynamic Island overlay around the camera cutout with media, notifications and charging indicators; Shizuku hides status-bar icons `MIT`
 *   [SwitchAI](https://github.com/WSTxda/SwitchAI) - Select, start and manage preferred AI digital assistants with widgets and Quick Settings tiles; Shizuku enables voice input for specific assistants `GPL-3.0`
 
 ### Entertainment
@@ -357,7 +357,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### File management
 
 *   [MaterialFiles](https://github.com/zhanghai/MaterialFiles) ✨ - Material Design file manager for Android `GPL-3.0`
-*   [UnscopeMyData](https://github.com/kepatotorica/UnscopeMyData) - Moves app data in and out of scoped storage folders using Shizuku for elevated file access. `GPL-3.0`
+*   [UnscopeMyData](https://github.com/kiyiyip/UnscopeMyData) - Moves app data in and out of scoped storage folders using Shizuku for elevated file access. `GPL-3.0`
 *   [XClean](https://github.com/utopiafar/XClean) - Rule-based cleaner with Normal, Shizuku and Root engines for clearing app junk. `Proprietary`
 
 ### Games
@@ -447,7 +447,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [Argus](https://github.com/JackRushante/argus) - Tasker-class Android automation where an LLM compiles natural-language rules into a deterministic engine, with an optional Shizuku shell gateway. `GPL-3.0`
 *   [flowpilot](https://github.com/emi-ran/flowpilot) - Privacy-first offline automation engine running privileged system actions such as mobile data, airplane mode and dark theme through Shizuku. `GPL-3.0`
-*   [NexaFlow](https://github.com/Alaa91H/NexaFlow) - Context-aware Android automation engine combining triggers, constraints and actions, with Shizuku execution for privileged device controls. `MIT`
 *   [Nothing\_Modes](https://github.com/Dvorinka/Nothing_Modes) - Automation app for Nothing phones (modes, routines, Glyph) that also runs on other Android devices with optional Shizuku `GPL-3.0`
 *   [OpenTasker](https://github.com/SysAdminDoc/OpenTasker) - Local-first, open-source Tasker alternative with readable rules and honest permission gates; privileged actions run through a Shizuku AIDL user service. `MIT`
 
@@ -466,7 +465,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Development utilities
 
-*   [80bee-app](https://github.com/Endda/80bee-app) - Root-free on-device ADB/Fastboot toolbox: boot modes, DPI, DNS, debloater and sideload bypass via Shizuku, plus USB-OTG host mode. `Apache-2.0`
+*   [80bee-app](https://github.com/Endda/80bee-app) - Root-free on-device ADB/Fastboot toolbox: boot modes, DPI, DNS, debloater and sideload bypass via Shizuku, plus USB-OTG host mode. `GPL-3.0`
 *   [panda-ide](https://github.com/ferelking242/panda-ide) - Mobile-first Flutter IDE with code editor, PTY terminal, Git and VS Code extensions; a Shizuku bridge provides ADB-level shell for on-device flutter run. `MIT`
 *   [roamer](https://github.com/eigenlux-ai/roamer) - Developer tool overriding SIM country ISO and carrier name via Shizuku, with optional per-app locale syncing. `MIT`
 
@@ -602,7 +601,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Customization
 
-*   [SetEditPlus](https://github.com/kerneldroid/SetEditPlus) ✨ - Editor for Android System/Secure/Global settings tables with Shizuku/Root modes, change tracking and boot persistence. `Proprietary`
+*   [SetEditPlus](https://github.com/kerneldroid/SetEditPlus) ✨ - Editor for Android System/Secure/Global settings tables with Shizuku/Root modes, change tracking and boot persistence. `MIT`
 
 ### Development utilities
 
@@ -696,7 +695,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### AI agents
 
 *   [OpenCyvis](https://github.com/opencyvis/opencyvis-phone) - Open-source AI phone that sees your screen and operates apps from natural language tasks, works in the background `Apache-2.0`
-*   [OpenDroid](https://github.com/yashab-cyber/opendroid) - Open-source autonomous on-device AI agent that plans and executes multi-step tasks via screen automation `Apache-2.0`
+*   [OpenDroid](https://github.com/JMAN730/opendroid) - Open-source autonomous on-device AI agent that plans and executes multi-step tasks via screen automation `Apache-2.0`
 
 ### Audio
 
@@ -754,7 +753,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Vendor-specific / Samsung OneUI
 
 *   [4Zones](https://github.com/mr-biz-apps/4zones) - Restores four-zone window tiling on Samsung DeX and Android desktop mode with tap-to-snap and keyboard shortcuts `Apache-2.0`
-*   [SamsungRegionOverride](https://github.com/Ritel-T/SamsungRegionOverride) - Temporarily change the SIM region seen by Galaxy Store and other region-locked apps, no root, one-tap restore `MIT`
+*   [SamsungRegionOverride](https://github.com/RitelDevs/SamsungRegionOverride) - Temporarily change the SIM region seen by Galaxy Store and other region-locked apps, no root, one-tap restore `MIT`
 *   [ZFold-Multi-DPI](https://github.com/balamurugan15/ZFold-Multi-DPI) - Applies separate screen zoom and DPI presets for the cover and inner displays of Samsung Galaxy Z Fold devices `Proprietary`
 
 ### Vendor-specific / MIUI
