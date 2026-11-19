@@ -162,7 +162,8 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### File management
 
-*   [Hexora](https://github.com/ZENINXOP/Hexora) - Dual-pane file manager fork of MP-Manager with archive browsing, built-in editor and APK tools, with Shizuku support for elevated access `GPL-3.0`
+*   [MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) ✨ - Dual-pane Material file manager focused on APKs as an open-source MT Manager alternative, with root and Shizuku privileged file management. `GPL-3.0`
+    *   [Hexora](https://github.com/ZENINXOP/Hexora) - MP-Manager fork with archive browsing, built-in editor and APK tools, plus Shizuku support for elevated access `GPL-3.0`
 
 ## Oct 11, 2026
 
@@ -224,6 +225,11 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [talon](https://github.com/thefalconry/talon) - Multi-platform agentic AI harness for Telegram/Discord/Teams/terminal with a Flutter companion app; Shizuku enables silent self-updates and elevated access. `Apache-2.0`
 
+### Android Auto
+
+*   [Open Headunit](https://github.com/andreknieriem/open-headunit) - Turn an Android tablet or phone into an Android Auto receiver with wired USB, native wireless and dongle support; optionally uses Shizuku to pause Wi-Fi scans during wireless connections. `AGPL-3.0`
+    *   [DiAuto](https://github.com/shihabal3amri/DiAuto) - Fork of Open Headunit focused only on BYD cars `AGPL-3.0`
+
 ### Audio
 
 *   [centuryplay](https://github.com/g8row/centuryplay) - Streams Android system audio to AirPlay 1/2 speakers; optional Shizuku mode provides silent-phone capture via AudioPolicy loopback and removes capture prompts. `AGPL-3.0`
@@ -245,10 +251,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Display management
 
 *   [BetterNightLight](https://github.com/paulsnuff/BetterNightLight) - Grants advanced control over Android's native Night Light: scheduling, boost phases and precise colour temperature through Shizuku or root secure-settings access. `GPL-3.0`
-
-### File management
-
-*   [MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) ✨ - Dual-pane Material file manager focused on APKs as an open-source MT Manager alternative, with root and Shizuku privileged file management. `GPL-3.0`
 
 ### Games
 
@@ -291,7 +293,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Vendor-specific / Other
 
 *   [BooxUltimatum](https://github.com/huuunleashed/BooxUltimatum) - Open-source suite for BOOX E Ink tablets: high-contrast home, sleep screens, instant pen ink, battery log and reversible tweaks, using Shizuku for privileged tweak tiers. `GPL-3.0`
-*   [DiAuto](https://github.com/shihabal3amri/DiAuto) - Wireless and USB Android Auto receiver for BYD DiLink head units; runs entirely on the car display and uses Shizuku or root for privileged setup. No phone companion app or dongle. `AGPL-3.0`
 
 ## Sep 27, 2026
 
@@ -366,9 +367,9 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Installer & app stores
 
 *   [APKUpdater](https://github.com/DmitryN71/apkupdater) - APKUpdater fork adding Shizuku-based silent installs next to its APKMirror, Aptoide, F-Droid and IzzyOnDroid sources. `GPL-3.0`
-*   [Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Obtainium fork for discovering and installing apps from source, with Shizuku, Dhizuku and Sui install backends. `GPL-3.0`
+*   [Droid-ify](https://f-droid.org/packages/com.looker.droidify/) - Material F-Droid client `GPL-3.0` [(Source code)](https://github.com/Droid-ify/client)
+    *   [Omnify](https://github.com/Victor-root/Omnify) - Droid-ify fork that also installs apps from external sources, with a Shizuku installer and a Works with Shizuku discovery row. `GPL-3.0`
 *   [LocalAndroidStore](https://github.com/SysAdminDoc/LocalAndroidStore) - Private app catalog that installs signed GitHub and F-Droid releases, optionally through a Shizuku-owned install session. `MIT`
-*   [Omnify](https://github.com/Victor-root/Omnify) - F-Droid client fork that also installs apps from external sources, with a Shizuku installer and a Works with Shizuku discovery row. `GPL-3.0`
 *   [Vyxel Apps](https://github.com/NikhilKain/vyxel-apps) `IAP` 💰 - GitHub-backed app store with signature verification and silent installs through Shizuku. `AGPL-3.0`
 
 ### Miscellaneous
@@ -814,6 +815,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Installer & app stores
 
 *   [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source `GPL-3.0`
+    *   [Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Obtainium fork for discovering and installing apps from source, with Shizuku, Dhizuku and Sui install backends. `GPL-3.0`
     *   [ObtainX](https://f-droid.org/packages/dev.bikram.obtainx/) - Obtainium fork with Material 3 UI redesign `GPL-3.0` [(Source code)](https://github.com/bikram-agarwal/ObtainX)
 *   [ShizuCoreFetch](https://github.com/elhizazi1/ShizuCoreFetch) - Shizuku-powered app manager with silent installs, updates, and batch operations `GPL-3.0`
 
@@ -899,7 +901,7 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### File management
 
 *   [NFile](https://github.com/Senzme/NFile) - File manager with Android folder access using Shizuku `GPL-3.0`
-*   [ZenFile](https://github.com/l930203811/ZenFile) - NFile fork with built-in remote file server support `GPL-3.0`
+    *   [ZenFile](https://github.com/l930203811/ZenFile) - NFile fork with built-in remote file server support `GPL-3.0`
 
 ### Games
 
@@ -989,7 +991,9 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 ### Task manager
 
-*   [ReAppzuku](https://github.com/gree1d/ReAppzuku) - Control and manage background applications. Fork of shappky `GPL-3.0`
+*   [shappky](https://github.com/YasserNull/shappky) ✨ - A simple app to boost performance by stopping background apps. `GPL-3.0`
+    *   [Appzuku](https://github.com/northmendo/Appzuku) - Fork of shappky with scheduled cleanup, background restriction, kill history and Shizuku/root support `GPL-3.0`
+    *   [ReAppzuku](https://github.com/gree1d/ReAppzuku) - Fork of Appzuku to control and manage background applications `GPL-3.0`
 
 ## Apr 19, 2026
 
@@ -1204,10 +1208,6 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 ### Customization
 
 *   [DroidOS](https://github.com/Katsuyamaki/DroidOS) ✨ - Tiling window manager, Samsung DEX replacement, popup app launcher `Proprietary`
-
-### Task manager
-
-*   [shappky](https://github.com/YasserNull/shappky) ✨ - A simple app to boost performance by stopping background apps. `GPL-3.0`
 
 ## Dec 02, 2025
 
