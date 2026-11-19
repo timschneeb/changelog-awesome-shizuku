@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Nov 16, 2026
+
+### Vendor-specific / Google Pixel
+
+*   [Pixel IMS (bkaganovich-stack's fork)](https://github.com/bkaganovich-stack/pixel-volte-patch/blob/main/README.en.md) - pixel-volte-patch fork with full Android 17 support: enables VoLTE/VoWiFi via Shizuku, keeps VoLTE on across reboots and re-applies saved settings after updates and carrier config resets; JSON export/import and NSA 5G diagnostics `GPL-3.0`
+
 ## Nov 15, 2026
 
 ### Device owner (DPM)
