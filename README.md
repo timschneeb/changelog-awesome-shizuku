@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Nov 22, 2026
+
+### Display management
+
+*   [OneHZ](https://github.com/neveSZ/onehz) - Refresh-rate controller for Samsung and Xiaomi/Redmi/POCO displays with reusable multi-tier profiles, per-app rules, per-profile video mode and AOD brightness through Shizuku; no root or accessibility service. `MIT`
+
 ## Nov 16, 2026
 
 ### Vendor-specific / Google Pixel
