@@ -4,6 +4,16 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Nov 25, 2026
+
+### Audio
+
+*   [Echora](https://github.com/ilbebino08/Echora) - Android audio dashcam that uses Shizuku to keep a rolling audio buffer and export recent audio as WAV. Root mode recommended. `MIT`
+
+### Power management
+
+*   [BatteryWatch](https://github.com/FoxSoftware-code/BatteryWatch) - Shows what drains your battery from batterystats, monitors charging (rate, capacity, overheating) and applies reversible fixes; with Shizuku it restricts and force-stops apps directly. No internet permission. `MIT`
+
 ## Nov 22, 2026
 
 ### Display management
