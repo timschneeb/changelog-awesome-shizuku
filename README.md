@@ -4,6 +4,12 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 
 
+## Nov 26, 2026
+
+### Games
+
+*   [SolarLanDroid](https://github.com/Team-SolarEngine/solarlandroid) - FNF mod launcher for Android based on Solar Launcher. Manage mods, GameBanana deeplinks, and Material You UI; uses Shizuku for file access on Android 11+. `MIT`
+
 ## Nov 25, 2026
 
 ### Audio
