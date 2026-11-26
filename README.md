@@ -10,6 +10,10 @@ Recent additions and updates to the [awesome-shizuku list](https://github.com/ti
 
 *   [SolarLanDroid](https://github.com/Team-SolarEngine/solarlandroid) - FNF mod launcher for Android based on Solar Launcher. Manage mods, GameBanana deeplinks, and Material You UI; uses Shizuku for file access on Android 11+. `MIT`
 
+### Installer & app stores
+
+*   [Shell Installer](https://github.com/MoshEZeeD/Sh311Installer) - Install APKs and split bundles with shell privileges via Shizuku, on-device Wireless ADB or root; installer-identity spoofing, security scan and ad neuter `GPL-3.0`
+
 ## Nov 25, 2026
 
 ### Audio
